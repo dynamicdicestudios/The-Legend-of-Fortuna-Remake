@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: c3c94c31813e6504fa4794c0eb30c43f
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - arrow: {fileID: 5837946004973693300, guid: 5e1a8176d811824408f8a44b11b2f173, type: 3}
+  - arrowSpawnPos: {instanceID: 0}
+  - groundCheckL: {instanceID: 0}
+  - groundCheck: {instanceID: 0}
+  - groundCheckR: {instanceID: 0}
+  - attackHitBox: {instanceID: 0}
+  - hearts: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
