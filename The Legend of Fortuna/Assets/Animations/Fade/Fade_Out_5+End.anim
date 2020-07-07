@@ -6,7 +6,7 @@ AnimationClip:
   m_CorrespondingSourceObject: {fileID: 0}
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
-  m_Name: Fade_Out_4+End
+  m_Name: Fade_Out_5+End
   serializedVersion: 6
   m_Legacy: 0
   m_Compressed: 0
@@ -242,7 +242,7 @@ AnimationClip:
   m_Events:
   - time: 3
     functionName: nextScene
-    data: Fourth_End
+    data: Fifth_End
     objectReferenceParameter: {fileID: 0}
     floatParameter: 0
     intParameter: 0
