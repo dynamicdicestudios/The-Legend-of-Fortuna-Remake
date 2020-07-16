@@ -1,0 +1,4934 @@
+fileFormatVersion: 2
+guid: 4268db09aa2e69848b2abd20cd2e43f7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5091434013955099853
+    second: informal_0
+  - first:
+      213: 5382941994618886450
+    second: informal_1
+  - first:
+      213: -1786165535846374950
+    second: informal_2
+  - first:
+      213: -4678582026659978949
+    second: informal_3
+  - first:
+      213: -1511656911366122156
+    second: informal_4
+  - first:
+      213: 6347372486460901608
+    second: informal_5
+  - first:
+      213: -4343854987942219826
+    second: informal_6
+  - first:
+      213: -2045698302648913593
+    second: informal_7
+  - first:
+      213: 2928423831262627741
+    second: informal_8
+  - first:
+      213: 3953476196482947992
+    second: informal_9
+  - first:
+      213: 205153994688043242
+    second: informal_10
+  - first:
+      213: 7123625691177275473
+    second: informal_11
+  - first:
+      213: 109611585160464057
+    second: informal_12
+  - first:
+      213: -2759924412884745073
+    second: informal_13
+  - first:
+      213: 5119584661109090353
+    second: informal_14
+  - first:
+      213: 6536930101951860987
+    second: informal_15
+  - first:
+      213: 1798046827770713837
+    second: informal_16
+  - first:
+      213: 1273256101235414709
+    second: informal_17
+  - first:
+      213: -8915596997867344819
+    second: informal_18
+  - first:
+      213: -6984736051295320303
+    second: informal_19
+  - first:
+      213: 3045247150832724961
+    second: informal_20
+  - first:
+      213: -4921123658265334468
+    second: informal_21
+  - first:
+      213: 2970214362766708160
+    second: informal_22
+  - first:
+      213: 6937248020462384360
+    second: informal_23
+  - first:
+      213: 4378342842008155
+    second: informal_24
+  - first:
+      213: 7526931262489054482
+    second: informal_25
+  - first:
+      213: -1413828844805928402
+    second: informal_26
+  - first:
+      213: -8656986928417729367
+    second: informal_27
+  - first:
+      213: -5843804297342649855
+    second: informal_28
+  - first:
+      213: 9194683048027235468
+    second: informal_29
+  - first:
+      213: -1714216027368663332
+    second: informal_30
+  - first:
+      213: -6820000227310676606
+    second: informal_31
+  - first:
+      213: 700579758228330487
+    second: informal_32
+  - first:
+      213: 4843405158953393746
+    second: informal_33
+  - first:
+      213: 7644078220497492994
+    second: informal_34
+  - first:
+      213: 6361702998455225255
+    second: informal_35
+  - first:
+      213: -8475674693062320465
+    second: informal_36
+  - first:
+      213: -2634036648323625418
+    second: informal_37
+  - first:
+      213: 266408990439177516
+    second: informal_38
+  - first:
+      213: -7811018786992798658
+    second: informal_39
+  - first:
+      213: -1724571006027603891
+    second: informal_40
+  - first:
+      213: -8377489730573563043
+    second: informal_41
+  - first:
+      213: 5252498069438241781
+    second: informal_42
+  - first:
+      213: -5296534832672009895
+    second: informal_43
+  - first:
+      213: 2951890846195072058
+    second: informal_44
+  - first:
+      213: 1373379370678367784
+    second: informal_45
+  - first:
+      213: 5087420883896777447
+    second: informal_46
+  - first:
+      213: -8455636582814909208
+    second: informal_47
+  - first:
+      213: 4765536650981728291
+    second: informal_48
+  - first:
+      213: -1701217006861940334
+    second: informal_49
+  - first:
+      213: 5425927587353954805
+    second: informal_50
+  - first:
+      213: 6355247267226596364
+    second: informal_51
+  - first:
+      213: 2687617468194243470
+    second: informal_52
+  - first:
+      213: -8235433790542658541
+    second: informal_53
+  - first:
+      213: -8478531964891788180
+    second: informal_54
+  - first:
+      213: -883544151377360069
+    second: informal_55
+  - first:
+      213: -5591593904599397742
+    second: informal_56
+  - first:
+      213: -7179199787127148269
+    second: informal_57
+  - first:
+      213: 5822813361782719220
+    second: informal_58
+  - first:
+      213: -7832791604100612749
+    second: informal_59
+  - first:
+      213: 9124555225507444888
+    second: informal_60
+  - first:
+      213: -1478284229993459318
+    second: informal_61
+  - first:
+      213: -1858315681307830918
+    second: informal_62
+  - first:
+      213: 1563291658086099413
+    second: informal_63
+  - first:
+      213: -465209032806142400
+    second: informal_64
+  - first:
+      213: 2416308343962295153
+    second: informal_65
+  - first:
+      213: 3744893526288274816
+    second: informal_66
+  - first:
+      213: 548382650722818986
+    second: informal_67
+  - first:
+      213: 5821651613498056759
+    second: informal_68
+  - first:
+      213: -4916160251936267115
+    second: informal_69
+  - first:
+      213: 5730159647805662978
+    second: informal_70
+  - first:
+      213: 4347589704619981815
+    second: informal_71
+  - first:
+      213: -1589593050990164668
+    second: informal_72
+  - first:
+      213: -6166056830618509721
+    second: informal_73
+  - first:
+      213: -6180667892227829024
+    second: informal_74
+  - first:
+      213: -1059639691676622863
+    second: informal_75
+  - first:
+      213: -7886369189187812205
+    second: informal_76
+  - first:
+      213: 1569458882636124712
+    second: informal_77
+  - first:
+      213: -6727058952214877171
+    second: informal_78
+  - first:
+      213: -6402470027362999582
+    second: informal_79
+  - first:
+      213: -1281047908358673919
+    second: informal_80
+  - first:
+      213: 4265946347277273196
+    second: informal_81
+  - first:
+      213: 6950435912442693006
+    second: informal_82
+  - first:
+      213: 2862331980739620986
+    second: informal_83
+  - first:
+      213: -4256476957695958993
+    second: informal_84
+  - first:
+      213: -6151830117323969044
+    second: informal_85
+  - first:
+      213: -5293685021297925195
+    second: informal_86
+  - first:
+      213: 5664944370074016143
+    second: informal_87
+  - first:
+      213: -1274658929378912687
+    second: informal_88
+  - first:
+      213: 8797902817255131037
+    second: informal_89
+  - first:
+      213: -6387841476458502228
+    second: informal_90
+  - first:
+      213: 1769310275672289880
+    second: informal_91
+  - first:
+      213: 8093829830702884211
+    second: informal_92
+  - first:
+      213: 4741219253862871853
+    second: informal_93
+  - first:
+      213: 8779165417039811919
+    second: informal_94
+  - first:
+      213: -9127201846830024952
+    second: informal_95
+  - first:
+      213: -3752982747015747962
+    second: informal_96
+  - first:
+      213: 2379714378901184628
+    second: informal_97
+  - first:
+      213: 3334266402558513665
+    second: informal_98
+  - first:
+      213: 3239838161386677937
+    second: informal_99
+  - first:
+      213: 2187990574283029174
+    second: informal_100
+  - first:
+      213: 4467225026055922814
+    second: informal_101
+  - first:
+      213: 3788494171482534930
+    second: informal_102
+  - first:
+      213: 8610561725575913581
+    second: informal_103
+  - first:
+      213: -5889779066084014815
+    second: informal_104
+  - first:
+      213: 686684370765693908
+    second: informal_105
+  - first:
+      213: -6944278874895075147
+    second: informal_106
+  - first:
+      213: 1451155365361988482
+    second: informal_107
+  - first:
+      213: 6815655155736515399
+    second: informal_108
+  - first:
+      213: -8588319559713160467
+    second: informal_109
+  - first:
+      213: 3091930942275845112
+    second: informal_110
+  - first:
+      213: -2666830080491892790
+    second: informal_111
+  - first:
+      213: 6348718136011293648
+    second: informal_112
+  - first:
+      213: -3810571611708620387
+    second: informal_113
+  - first:
+      213: -8850889098665663720
+    second: informal_114
+  - first:
+      213: 1074474092440840868
+    second: informal_115
+  - first:
+      213: 1060068799385535872
+    second: informal_116
+  - first:
+      213: 8209916791149100415
+    second: informal_117
+  - first:
+      213: 9037110835591838646
+    second: informal_118
+  - first:
+      213: 586086518990478167
+    second: informal_119
+  - first:
+      213: 4338542677022819930
+    second: informal_120
+  - first:
+      213: -6707199953699528994
+    second: informal_121
+  - first:
+      213: -4237524718943668858
+    second: informal_122
+  - first:
+      213: -5214967018214632828
+    second: informal_123
+  - first:
+      213: -7313861124126974943
+    second: informal_124
+  - first:
+      213: -6662745971377307975
+    second: informal_125
+  - first:
+      213: -8080725076002026244
+    second: informal_126
+  - first:
+      213: 5589005936816651512
+    second: informal_127
+  - first:
+      213: -9211896780748592376
+    second: informal_128
+  - first:
+      213: 6305445112474306045
+    second: informal_129
+  - first:
+      213: 7778647537829563930
+    second: informal_130
+  - first:
+      213: -2717661051279653204
+    second: informal_131
+  - first:
+      213: -615193033067578727
+    second: informal_132
+  - first:
+      213: -924321688811971324
+    second: informal_133
+  - first:
+      213: 7149029398684761154
+    second: informal_134
+  - first:
+      213: 2071393198566327965
+    second: informal_135
+  - first:
+      213: 8237565472969235676
+    second: informal_136
+  - first:
+      213: -6228895084242327749
+    second: informal_137
+  - first:
+      213: 7844851572620170526
+    second: informal_138
+  - first:
+      213: -4503188265644075941
+    second: informal_139
+  - first:
+      213: 9103020690992593039
+    second: informal_140
+  - first:
+      213: -1555370216698351502
+    second: informal_141
+  - first:
+      213: 4316166601326825831
+    second: informal_142
+  - first:
+      213: 5593228164539187080
+    second: informal_143
+  - first:
+      213: -3367056852475872341
+    second: informal_144
+  - first:
+      213: 5978311620873558786
+    second: informal_145
+  - first:
+      213: -944113295096431058
+    second: informal_146
+  - first:
+      213: -8286205031074777097
+    second: informal_147
+  - first:
+      213: 6668501543802348814
+    second: informal_148
+  - first:
+      213: -6165476433103325356
+    second: informal_149
+  - first:
+      213: 4436486498861403440
+    second: informal_150
+  - first:
+      213: 6474677146245715433
+    second: informal_151
+  - first:
+      213: 2121853238973502889
+    second: informal_152
+  - first:
+      213: -5320171331365908967
+    second: informal_153
+  - first:
+      213: -537724447477925290
+    second: informal_154
+  - first:
+      213: 3956422821503493663
+    second: informal_155
+  - first:
+      213: -2333030172864400467
+    second: informal_156
+  - first:
+      213: -8032229171510503010
+    second: informal_157
+  - first:
+      213: -6659133212128017512
+    second: informal_158
+  - first:
+      213: 2858412428985988270
+    second: informal_159
+  - first:
+      213: 9118956423496390676
+    second: informal_160
+  - first:
+      213: 8604246255989913365
+    second: informal_161
+  - first:
+      213: -5253888320911760459
+    second: informal_162
+  - first:
+      213: 4799040403202540274
+    second: informal_163
+  - first:
+      213: 82522395976349707
+    second: informal_164
+  - first:
+      213: 4712329767265662740
+    second: informal_165
+  - first:
+      213: 6014385005547684519
+    second: informal_166
+  - first:
+      213: -2774199398732085722
+    second: informal_167
+  - first:
+      213: 8785275573322863385
+    second: informal_168
+  - first:
+      213: -803088247723271621
+    second: informal_169
+  - first:
+      213: 4615111704767229615
+    second: informal_170
+  - first:
+      213: 3388063498854817538
+    second: informal_171
+  - first:
+      213: 5132458389749161686
+    second: informal_172
+  - first:
+      213: 4777017672940188787
+    second: informal_173
+  - first:
+      213: -6497890199319265614
+    second: informal_174
+  - first:
+      213: -7939804151660228785
+    second: informal_175
+  - first:
+      213: 7725415689850619638
+    second: informal_176
+  - first:
+      213: -6797908608749623663
+    second: informal_177
+  - first:
+      213: 1590020350414910682
+    second: informal_0
+  - first:
+      213: 559638606236746744
+    second: informal_1
+  - first:
+      213: -2806807634483789079
+    second: informal_2
+  - first:
+      213: 7103597271050662130
+    second: informal_3
+  - first:
+      213: -4194337425556292965
+    second: informal_4
+  - first:
+      213: 5041491192747132815
+    second: informal_5
+  - first:
+      213: -6740947379525105759
+    second: informal_6
+  - first:
+      213: -3319600556079545619
+    second: informal_7
+  - first:
+      213: 8253416533091436166
+    second: informal_8
+  - first:
+      213: -6613376520905365049
+    second: informal_9
+  - first:
+      213: -5689568319056878092
+    second: informal_10
+  - first:
+      213: 431444286129577367
+    second: informal_11
+  - first:
+      213: -6658119479242956921
+    second: informal_12
+  - first:
+      213: 7059513704151725934
+    second: informal_13
+  - first:
+      213: -6330308537943048487
+    second: informal_14
+  - first:
+      213: -2831671420109905433
+    second: informal_15
+  - first:
+      213: 277447296830227776
+    second: informal_16
+  - first:
+      213: 5567899958713767454
+    second: informal_17
+  - first:
+      213: -7651290385081403937
+    second: informal_18
+  - first:
+      213: 4159189774927412283
+    second: informal_19
+  - first:
+      213: 6458341027600443361
+    second: informal_20
+  - first:
+      213: 3429930228301452429
+    second: informal_21
+  - first:
+      213: -1680663723315756938
+    second: informal_22
+  - first:
+      213: 7540438669867078786
+    second: informal_23
+  - first:
+      213: 4899260776132947253
+    second: informal_24
+  - first:
+      213: 7435545558318697645
+    second: informal_25
+  - first:
+      213: -7815382789487882100
+    second: informal_26
+  - first:
+      213: -8822102228138724694
+    second: informal_27
+  - first:
+      213: 1100460380282434614
+    second: informal_28
+  - first:
+      213: 1039761270760048992
+    second: informal_29
+  - first:
+      213: -805064202402582972
+    second: informal_30
+  - first:
+      213: 2391980135343223435
+    second: informal_31
+  - first:
+      213: 4040867330399999391
+    second: informal_32
+  - first:
+      213: -8650788651180563985
+    second: informal_33
+  - first:
+      213: -7504165660269164090
+    second: informal_34
+  - first:
+      213: 5979521145017939492
+    second: informal_35
+  - first:
+      213: 8270008764575360567
+    second: informal_36
+  - first:
+      213: 7654971266268081461
+    second: informal_37
+  - first:
+      213: -1424270522949109273
+    second: informal_38
+  - first:
+      213: -1976520949357098636
+    second: informal_39
+  - first:
+      213: -4628023830717821669
+    second: informal_40
+  - first:
+      213: -8556447588756339404
+    second: informal_41
+  - first:
+      213: 8475936828134742230
+    second: informal_42
+  - first:
+      213: -2075638322081566299
+    second: informal_43
+  - first:
+      213: 411464962328319356
+    second: informal_44
+  - first:
+      213: 3821010868456685970
+    second: informal_45
+  - first:
+      213: -3408070469971373942
+    second: informal_46
+  - first:
+      213: 8828259373416081811
+    second: informal_47
+  - first:
+      213: -4025485857618255434
+    second: informal_48
+  - first:
+      213: 3296146542821502208
+    second: informal_49
+  - first:
+      213: -2432545354686288640
+    second: informal_50
+  - first:
+      213: 605317592689065080
+    second: informal_51
+  - first:
+      213: 474099352384428588
+    second: informal_52
+  - first:
+      213: 4743701897870708743
+    second: informal_53
+  - first:
+      213: 7319994752664110879
+    second: informal_54
+  - first:
+      213: -3536121752216301489
+    second: informal_55
+  - first:
+      213: -6187925785758082308
+    second: informal_56
+  - first:
+      213: 2882759928927051166
+    second: informal_57
+  - first:
+      213: 964803172972632557
+    second: informal_58
+  - first:
+      213: -3129662542766125434
+    second: informal_59
+  - first:
+      213: 9039163847403300479
+    second: informal_60
+  - first:
+      213: 192590775607825989
+    second: informal_61
+  - first:
+      213: 1252325572885338888
+    second: informal_62
+  - first:
+      213: 1898140965994905828
+    second: informal_63
+  - first:
+      213: 7500230051427812554
+    second: informal_64
+  - first:
+      213: 6134567915985538371
+    second: informal_65
+  - first:
+      213: -8696704021372589802
+    second: informal_66
+  - first:
+      213: -4115743140819437460
+    second: informal_67
+  - first:
+      213: 6151838924650700193
+    second: informal_68
+  - first:
+      213: -2835346602069365031
+    second: informal_69
+  - first:
+      213: -8377437744443124097
+    second: informal_70
+  - first:
+      213: -8623902190518610219
+    second: informal_71
+  - first:
+      213: 197536054100106468
+    second: informal_72
+  - first:
+      213: 8897620060389686000
+    second: informal_73
+  - first:
+      213: 6314212085532236554
+    second: informal_74
+  - first:
+      213: 544344805600265796
+    second: informal_75
+  - first:
+      213: 4535605004047996534
+    second: informal_76
+  - first:
+      213: 1993840972499842899
+    second: informal_77
+  - first:
+      213: 3298467474952991150
+    second: informal_78
+  - first:
+      213: 5928090784430369278
+    second: informal_79
+  - first:
+      213: 4530699221395117220
+    second: informal_80
+  - first:
+      213: 6045423501956093964
+    second: informal_81
+  - first:
+      213: 2049562531330577178
+    second: informal_82
+  - first:
+      213: -2133206076668254224
+    second: informal_83
+  - first:
+      213: 5956088143369075409
+    second: informal_84
+  - first:
+      213: -3743935318083159886
+    second: informal_85
+  - first:
+      213: -518253864441915055
+    second: informal_86
+  - first:
+      213: -8703566790337565582
+    second: informal_87
+  - first:
+      213: -4239833446164267111
+    second: informal_88
+  - first:
+      213: -8061128945386921565
+    second: informal_89
+  - first:
+      213: 4009244145593966872
+    second: informal_90
+  - first:
+      213: 1930537112632239330
+    second: informal_91
+  - first:
+      213: -9208587132150436791
+    second: informal_92
+  - first:
+      213: 5588614961094847492
+    second: informal_93
+  - first:
+      213: 495131906993458850
+    second: informal_94
+  - first:
+      213: 1665218086851912979
+    second: informal_95
+  - first:
+      213: -3401488785247868327
+    second: informal_96
+  - first:
+      213: 188355171170146884
+    second: informal_97
+  - first:
+      213: -1436072661342559103
+    second: informal_98
+  - first:
+      213: -8964601425638936640
+    second: informal_99
+  - first:
+      213: 8736776252840892025
+    second: informal_100
+  - first:
+      213: 7643592462708846389
+    second: informal_101
+  - first:
+      213: -5091271815385061758
+    second: informal_102
+  - first:
+      213: 3769787873906521717
+    second: informal_103
+  - first:
+      213: 2464906100955535638
+    second: informal_104
+  - first:
+      213: 3044227269734043148
+    second: informal_105
+  - first:
+      213: -1950837758994179358
+    second: informal_106
+  - first:
+      213: -8955942157129971816
+    second: informal_107
+  - first:
+      213: -8981140496022574832
+    second: informal_108
+  - first:
+      213: -7013969784768526610
+    second: informal_109
+  - first:
+      213: -8863724539533583747
+    second: informal_110
+  - first:
+      213: -729927587882883445
+    second: informal_111
+  - first:
+      213: -6124638866819081445
+    second: informal_112
+  - first:
+      213: -1621025157001193533
+    second: informal_113
+  - first:
+      213: 8516748200771565043
+    second: informal_114
+  - first:
+      213: 6149619812221851147
+    second: informal_115
+  - first:
+      213: -6683677679045567222
+    second: informal_116
+  - first:
+      213: -4096608946031200147
+    second: informal_117
+  - first:
+      213: 2799378748929677825
+    second: informal_118
+  - first:
+      213: 7122693831636839064
+    second: informal_119
+  - first:
+      213: 1449254914616094794
+    second: informal_120
+  - first:
+      213: -7071222688292587794
+    second: informal_121
+  - first:
+      213: -1467687116260075310
+    second: informal_122
+  - first:
+      213: -5463105298746356629
+    second: informal_123
+  - first:
+      213: 5577742897284966194
+    second: informal_124
+  - first:
+      213: -3220743938125492653
+    second: informal_125
+  - first:
+      213: -6126254836856232323
+    second: informal_126
+  - first:
+      213: -5711827828029458426
+    second: informal_127
+  - first:
+      213: 6196391774904841124
+    second: informal_128
+  - first:
+      213: 5713942860648562392
+    second: informal_129
+  - first:
+      213: -9212946145710393991
+    second: informal_130
+  - first:
+      213: -5932576609164024533
+    second: informal_131
+  - first:
+      213: 8962139729505821682
+    second: informal_132
+  - first:
+      213: -1552969679393580222
+    second: informal_133
+  - first:
+      213: 6639609176755391857
+    second: informal_134
+  - first:
+      213: 2555673136078615156
+    second: informal_135
+  - first:
+      213: 1918882424381493274
+    second: informal_136
+  - first:
+      213: -8439453649481471486
+    second: informal_137
+  - first:
+      213: -4416462508078072788
+    second: informal_138
+  - first:
+      213: -357465350319388530
+    second: informal_139
+  - first:
+      213: -6836518130931253297
+    second: informal_140
+  - first:
+      213: -2052557738229155001
+    second: informal_141
+  - first:
+      213: 9106842117308029206
+    second: informal_142
+  - first:
+      213: 3627437150814522457
+    second: informal_143
+  - first:
+      213: -4850925359458633427
+    second: informal_144
+  - first:
+      213: -2753873501304043352
+    second: informal_145
+  - first:
+      213: 6615260678692791443
+    second: informal_146
+  - first:
+      213: -8519217779547434824
+    second: informal_147
+  - first:
+      213: 4534898208382324988
+    second: informal_148
+  - first:
+      213: 8891486771456683334
+    second: informal_149
+  - first:
+      213: 5341631751554106479
+    second: informal_150
+  - first:
+      213: 7078036277605329797
+    second: informal_151
+  - first:
+      213: -6151802822742198370
+    second: informal_152
+  - first:
+      213: -804584153436405664
+    second: informal_153
+  - first:
+      213: 8261235852398984316
+    second: informal_154
+  - first:
+      213: -9052057743436017033
+    second: informal_155
+  - first:
+      213: -3613919469677046592
+    second: informal_156
+  - first:
+      213: -1414504952853094861
+    second: informal_157
+  - first:
+      213: 1780698015609485497
+    second: informal_158
+  - first:
+      213: -5403357328067082188
+    second: informal_159
+  - first:
+      213: -462429864735185026
+    second: informal_160
+  - first:
+      213: 7077993886107577392
+    second: informal_161
+  - first:
+      213: 9070801965063252709
+    second: informal_162
+  - first:
+      213: -6722428536586518549
+    second: informal_163
+  - first:
+      213: 6571357700218906767
+    second: informal_164
+  - first:
+      213: 9102129403151883164
+    second: informal_165
+  - first:
+      213: 3354915038686410612
+    second: informal_166
+  - first:
+      213: 7343501397363978571
+    second: informal_167
+  - first:
+      213: -3593932061846344035
+    second: informal_168
+  - first:
+      213: 5054645767560551045
+    second: informal_169
+  - first:
+      213: -6299153333945774272
+    second: informal_170
+  - first:
+      213: 1892853558314280840
+    second: informal_171
+  - first:
+      213: 8124105903513308352
+    second: informal_172
+  - first:
+      213: -2425510739477281260
+    second: informal_173
+  - first:
+      213: -3708395127891312981
+    second: informal_174
+  - first:
+      213: -8737208008284333912
+    second: informal_175
+  - first:
+      213: -3510415339929813327
+    second: informal_176
+  - first:
+      213: -7426567049390908849
+    second: informal_177
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: informal_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1281
+        width: 28
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad47f1c9513e01610800000000000000
+      internalID: 1590020350414910682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1281
+        width: 22
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f30657e85c34c700800000000000000
+      internalID: 559638606236746744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1281
+        width: 22
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e24db9d3573c09d0800000000000000
+      internalID: -2806807634483789079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_3
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1281
+        width: 34
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0b860e41c059260800000000000000
+      internalID: 7103597271050662130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_4
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1281
+        width: 44
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a37918558bac5c0800000000000000
+      internalID: -4194337425556292965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_5
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1281
+        width: 44
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8704f16789f6f540800000000000000
+      internalID: 5041491192747132815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_6
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1281
+        width: 34
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a74ec9c2185372a0800000000000000
+      internalID: -6740947379525105759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1217
+        width: 22
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de280bad1e86ee1d0800000000000000
+      internalID: -3319600556079545619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 1217
+        width: 22
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686404ebb960a8270800000000000000
+      internalID: 8253416533091436166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1217
+        width: 22
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c9e689e7119834a0800000000000000
+      internalID: -6613376520905365049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1217
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f56c4922c79a01b0800000000000000
+      internalID: -5689568319056878092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1217
+        width: 32
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d1027da4cccf500800000000000000
+      internalID: 431444286129577367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1217
+        width: 32
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f5d9f1c9b9993a0800000000000000
+      internalID: -6658119479242956921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1217
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6737fe9f4e68f160800000000000000
+      internalID: 7059513704151725934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_14
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1153
+        width: 28
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de38459ce93628a0800000000000000
+      internalID: -6330308537943048487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_15
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1153
+        width: 28
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e129b3a8d1e3b8d0800000000000000
+      internalID: -2831671420109905433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_16
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1153
+        width: 26
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0454573b8d0b9d300800000000000000
+      internalID: 277447296830227776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_17
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1153
+        width: 32
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e16db003387254d40800000000000000
+      internalID: 5567899958713767454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_18
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1153
+        width: 44
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd57cdbdee721d590800000000000000
+      internalID: -7651290385081403937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_19
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1153
+        width: 44
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3c3cff501968b930800000000000000
+      internalID: 4159189774927412283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_20
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1153
+        width: 32
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7a47462f2a0a950800000000000000
+      internalID: 6458341027600443361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_21
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1089
+        width: 22
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84584ebe5f899f20800000000000000
+      internalID: 3429930228301452429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1089
+        width: 22
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67001e88f351da8e0800000000000000
+      internalID: -1680663723315756938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1089
+        width: 22
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284db00f40505a860800000000000000
+      internalID: 7540438669867078786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_24
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1089
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53da86fe7bbadf340800000000000000
+      internalID: 4899260776132947253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_25
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1089
+        width: 32
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dacc1d24a4d503760800000000000000
+      internalID: 7435545558318697645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_26
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1089
+        width: 32
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c809fd8b2ce2a8390800000000000000
+      internalID: -7815382789487882100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_27
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1089
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa2fb97d3c8919580800000000000000
+      internalID: -8822102228138724694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_28
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1024
+        width: 28
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6343028a2ee954f00800000000000000
+      internalID: 1100460380282434614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_29
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1024
+        width: 28
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0698cdaed59fd6e00800000000000000
+      internalID: 1039761270760048992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1023
+        width: 22
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e29629f56d3d4f0800000000000000
+      internalID: -805064202402582972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1023
+        width: 22
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b827ce48245023120800000000000000
+      internalID: 2391980135343223435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_32
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1023
+        width: 22
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9519f47d6b041830800000000000000
+      internalID: 4040867330399999391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1023
+        width: 22
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe1e66b3e8932f780800000000000000
+      internalID: -8650788651180563985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_34
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1023
+        width: 22
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9c8fb3719dbd790800000000000000
+      internalID: -7504165660269164090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_35
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1023
+        width: 22
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4263bbfecc68bf250800000000000000
+      internalID: 5979521145017939492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_36
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 961
+        width: 22
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736a1eda729f4c270800000000000000
+      internalID: 8270008764575360567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 961
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53d2bb31fcbeb3a60800000000000000
+      internalID: 7654971266268081461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 961
+        width: 27
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9fe876189fb3ce0800000000000000
+      internalID: -1424270522949109273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_39
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 961
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 479c37a2bacf194e0800000000000000
+      internalID: -1976520949357098636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 961
+        width: 27
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d8506a8d4f5cfb0800000000000000
+      internalID: -4628023830717821669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 961
+        width: 30
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4354ee48044614980800000000000000
+      internalID: -8556447588756339404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 961
+        width: 27
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d85f9343a390a570800000000000000
+      internalID: 8475936828134742230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_43
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 961
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a1f32a71f9d133e0800000000000000
+      internalID: -2075638322081566299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_44
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 897
+        width: 28
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7559150431d5b500800000000000000
+      internalID: 411464962328319356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 897
+        width: 24
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2918449e325f60530800000000000000
+      internalID: 3821010868456685970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_46
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 898
+        width: 22
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a809bdbd6f914b0d0800000000000000
+      internalID: -3408070469971373942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 898
+        width: 25
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3996a714027448a70800000000000000
+      internalID: 8828259373416081811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_48
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 898
+        width: 22
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b12e40c0f99228c0800000000000000
+      internalID: -4025485857618255434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_49
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 898
+        width: 22
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00de18421d34ebd20800000000000000
+      internalID: 3296146542821502208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_50
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 898
+        width: 22
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00da5e953ecdd3ed0800000000000000
+      internalID: -2432545354686288640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 898
+        width: 25
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87cb688b425866800800000000000000
+      internalID: 605317592689065080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_52
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 833
+        width: 22
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2add1f59d6549600800000000000000
+      internalID: 474099352384428588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_53
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 833
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7001eee2eb305d140800000000000000
+      internalID: 4743701897870708743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 833
+        width: 27
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17844ec178d59560800000000000000
+      internalID: 7319994752664110879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 833
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f409d94600c2deec0800000000000000
+      internalID: -3536121752216301489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_56
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 833
+        width: 29
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfad86b6842102aa0800000000000000
+      internalID: -6187925785758082308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_57
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 833
+        width: 32
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d5d60c1ee910820800000000000000
+      internalID: 2882759928927051166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_58
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 833
+        width: 29
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de91433cf5ba36d00800000000000000
+      internalID: 964803172972632557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_59
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 833
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e449fbf743194d0800000000000000
+      internalID: -3129662542766125434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_60
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 769
+        width: 28
+        height: 47
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76e60fa0af817d70800000000000000
+      internalID: 9039163847403300479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_61
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 769
+        width: 28
+        height: 47
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5461f1f3a483ca200800000000000000
+      internalID: 192590775607825989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_62
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 768
+        width: 26
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80bd7f23977216110800000000000000
+      internalID: 1252325572885338888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_63
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 767
+        width: 24
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e04ebbd62d875a10800000000000000
+      internalID: 1898140965994905828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_64
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 768
+        width: 28
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4801d6e7b261860800000000000000
+      internalID: 7500230051427812554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_65
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 769
+        width: 28
+        height: 47
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d83da640d522550800000000000000
+      internalID: 6134567915985538371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_66
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 768
+        width: 26
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619206905c91f4780800000000000000
+      internalID: -8696704021372589802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_67
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 767
+        width: 24
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c68f4b86b61f1e6c0800000000000000
+      internalID: -4115743140819437460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_68
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 768
+        width: 28
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1add93b78e8bf5550800000000000000
+      internalID: 6151838924650700193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_69
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 705
+        width: 30
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9de6b88a943d6a8d0800000000000000
+      internalID: -2835346602069365031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_70
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 705
+        width: 22
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f76948ac1cc5dbb80800000000000000
+      internalID: -8377437744443124097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_71
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 706
+        width: 22
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d6dc6c26aeb15880800000000000000
+      internalID: -8623902190518610219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_72
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 706
+        width: 28
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ec18fe9ef9cdb200800000000000000
+      internalID: 197536054100106468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_73
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 705
+        width: 32
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fabae5ad42ba7b70800000000000000
+      internalID: 8897620060389686000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 705
+        width: 27
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b90aa007690a750800000000000000
+      internalID: 6314212085532236554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_75
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 705
+        width: 31
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 446022577b6ed8700800000000000000
+      internalID: 544344805600265796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_76
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 705
+        width: 30
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 676d3c378b4b1fe30800000000000000
+      internalID: 4535605004047996534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_77
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 705
+        width: 22
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 357f878fccb8bab10800000000000000
+      internalID: 1993840972499842899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_78
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 641
+        width: 28
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea1b0c341b286cd20800000000000000
+      internalID: 3298467474952991150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_79
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 641
+        width: 28
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef92d3af82fc44250800000000000000
+      internalID: 5928090784430369278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_80
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 640
+        width: 27
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4156befe640ee30800000000000000
+      internalID: 4530699221395117220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_81
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 640
+        width: 25
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0814ee15a8a5e350800000000000000
+      internalID: 6045423501956093964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_82
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 640
+        width: 28
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a13d8e06342817c10800000000000000
+      internalID: 2049562531330577178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_83
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 641
+        width: 28
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f7eb7f10645562e0800000000000000
+      internalID: -2133206076668254224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_84
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 640
+        width: 27
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dafd641c9648a250800000000000000
+      internalID: 5956088143369075409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_85
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 640
+        width: 25
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b83d971aaeda0cc0800000000000000
+      internalID: -3743935318083159886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_86
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 640
+        width: 28
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159577a2bdacec8f0800000000000000
+      internalID: -518253864441915055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_87
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 577
+        width: 31
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cea0f1e18b63780800000000000000
+      internalID: -8703566790337565582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_88
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 577
+        width: 23
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99ffe8eb1f51925c0800000000000000
+      internalID: -4239833446164267111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_89
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 578
+        width: 22
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1e7911fed112090800000000000000
+      internalID: -8061128945386921565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_90
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 578
+        width: 27
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81161fbfe42b3a730800000000000000
+      internalID: 4009244145593966872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_91
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 577
+        width: 32
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e427288645aaca10800000000000000
+      internalID: 1930537112632239330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_92
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 577
+        width: 27
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ca0f0eac6843080800000000000000
+      internalID: -9208587132150436791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_93
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 577
+        width: 31
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40ced7682bfbe8d40800000000000000
+      internalID: 5588614961094847492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_94
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 577
+        width: 30
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae8e4998df0fd600800000000000000
+      internalID: 495131906993458850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_95
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 577
+        width: 22
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3152d5cf60b0c1710800000000000000
+      internalID: 1665218086851912979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_96
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 513
+        width: 28
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95a63dfb8fb7bc0d0800000000000000
+      internalID: -3401488785247868327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_97
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 513
+        width: 23
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a543db70c2d9200800000000000000
+      internalID: 188355171170146884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_98
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 513
+        width: 22
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 184e60de58b021ce0800000000000000
+      internalID: -1436072661342559103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_99
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 513
+        width: 24
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cfa4d7ff76579380800000000000000
+      internalID: -8964601425638936640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_100
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 513
+        width: 33
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97656a866b34f3970800000000000000
+      internalID: 8736776252840892025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_101
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 513
+        width: 37
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53f2d9be8de731a60800000000000000
+      internalID: 7643592462708846389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_102
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 449
+        width: 32
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 286e305324b2859b0800000000000000
+      internalID: -5091271815385061758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_103
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 449
+        width: 32
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 576f5ce191af05430800000000000000
+      internalID: 3769787873906521717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_104
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 449
+        width: 23
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 619d5280a0b153220800000000000000
+      internalID: 2464906100955535638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_105
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 449
+        width: 37
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e0e04a2944f3a20800000000000000
+      internalID: 3044227269734043148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_106
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 449
+        width: 41
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ea9bb8e46b3de4e0800000000000000
+      internalID: -1950837758994179358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_107
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 449
+        width: 43
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89782570f0a16b380800000000000000
+      internalID: -8955942157129971816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_108
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 385
+        width: 28
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 019e2b09d449c5380800000000000000
+      internalID: -8981140496022574832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_109
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 385
+        width: 23
+        height: 47
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee68c8174af59ae90800000000000000
+      internalID: -7013969784768526610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_110
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 385
+        width: 23
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7a103a4e79bdf480800000000000000
+      internalID: -8863724539533583747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_111
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 385
+        width: 23
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86ab74e9b6ced5f0800000000000000
+      internalID: -729927587882883445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_112
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 385
+        width: 31
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b92bd7669e00ba0800000000000000
+      internalID: -6124638866819081445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_113
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 385
+        width: 39
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c7d8f05536f089e0800000000000000
+      internalID: -1621025157001193533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_114
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 321
+        width: 32
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5bf6c6d51913670800000000000000
+      internalID: 8516748200771565043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 321
+        width: 32
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b06103b13a6d75550800000000000000
+      internalID: 6149619812221851147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_116
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 321
+        width: 23
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d1843009ece33a0800000000000000
+      internalID: -6683677679045567222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_117
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 321
+        width: 37
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d687f1c4edbe527c0800000000000000
+      internalID: -4096608946031200147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 321
+        width: 41
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a1bb1f32469d620800000000000000
+      internalID: 2799378748929677825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 321
+        width: 43
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89a649e5d44e8d260800000000000000
+      internalID: 7122693831636839064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_120
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 257
+        width: 28
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a407ea69aa9cc1410800000000000000
+      internalID: 1449254914616094794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_121
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 257
+        width: 28
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee633a01e68fddd90800000000000000
+      internalID: -7071222688292587794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_122
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 255
+        width: 22
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d896e9085ab1abe0800000000000000
+      internalID: -1467687116260075310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 255
+        width: 22
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c4ba1fca62f24b0800000000000000
+      internalID: -5463105298746356629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_124
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 255
+        width: 27
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237e029ec9f186d40800000000000000
+      internalID: 5577742897284966194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_125
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 255
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35e8987d37e9d43d0800000000000000
+      internalID: -3220743938125492653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_126
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 255
+        width: 26
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d766aa52fab2bfaa0800000000000000
+      internalID: -6126254836856232323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_127
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 255
+        width: 27
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 608fc1c5ad28bb0b0800000000000000
+      internalID: -5711827828029458426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_128
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 255
+        width: 28
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a3fa584d710ef550800000000000000
+      internalID: 6196391774904841124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_129
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 255
+        width: 27
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de36db02c00c4f40800000000000000
+      internalID: 5713942860648562392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_130
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 255
+        width: 22
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 975b022fa4a052080800000000000000
+      internalID: -9212946145710393991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_131
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 255
+        width: 22
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25acff81014bada0800000000000000
+      internalID: -5932576609164024533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_132
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 255
+        width: 22
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f32c9cb99aef5c70800000000000000
+      internalID: 8962139729505821682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_133
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 193
+        width: 22
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b1bc8fd4eb27ae0800000000000000
+      internalID: -1552969679393580222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_134
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 193
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dcdeb3e51a42c50800000000000000
+      internalID: 6639609176755391857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_135
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 193
+        width: 32
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47279fd3d23977320800000000000000
+      internalID: 2555673136078615156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_136
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 193
+        width: 35
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10dff6f56d31aa10800000000000000
+      internalID: 1918882424381493274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_137
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 193
+        width: 35
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20a6844be9901ea80800000000000000
+      internalID: -8439453649481471486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_138
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 193
+        width: 33
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2cfc229fb295b2c0800000000000000
+      internalID: -4416462508078072788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_139
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 193
+        width: 34
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e88c3b668270a0bf0800000000000000
+      internalID: -357465350319388530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_140
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 193
+        width: 36
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcf33593bfecf11a0800000000000000
+      internalID: -6836518130931253297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_141
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 193
+        width: 38
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74b3fdbac99d383e0800000000000000
+      internalID: -2052557738229155001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 193
+        width: 35
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61916b3d7a0026e70800000000000000
+      internalID: 9106842117308029206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_143
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 193
+        width: 34
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95cca53aede375230800000000000000
+      internalID: 3627437150814522457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_144
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 193
+        width: 35
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d29b88d361d0eacb0800000000000000
+      internalID: -4850925359458633427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_145
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 193
+        width: 34
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a8496624a648c9d0800000000000000
+      internalID: -2753873501304043352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_146
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 129
+        width: 28
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394e712c9802ecb50800000000000000
+      internalID: 6615260678692791443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_147
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 128
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b012e5f098a5c980800000000000000
+      internalID: -8519217779547434824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_148
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 130
+        width: 24
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf01f23c4e13fee30800000000000000
+      internalID: 4534898208382324988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_149
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 129
+        width: 24
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64da2c90c18e46b70800000000000000
+      internalID: 8891486771456683334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_150
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 129
+        width: 23
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f648450e6c9412a40800000000000000
+      internalID: 5341631751554106479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_151
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 129
+        width: 23
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b6ef15e7c3a3260800000000000000
+      internalID: 7078036277605329797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_152
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 129
+        width: 23
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97b4362de760aaa0800000000000000
+      internalID: -6151802822742198370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 129
+        width: 24
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 060c38ea9fa85d4f0800000000000000
+      internalID: -804584153436405664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_154
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 129
+        width: 24
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c76f3ec3ec5a270800000000000000
+      internalID: 8261235852398984316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_155
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 129
+        width: 23
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7721c243171a06280800000000000000
+      internalID: -9052057743436017033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 129
+        width: 24
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c41803c367c8ddc0800000000000000
+      internalID: -3613919469677046592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_157
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 129
+        width: 22
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e19206d3bae5ce0800000000000000
+      internalID: -1414504952853094861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 129
+        width: 24
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b875a0296f46b810800000000000000
+      internalID: 1780698015609485497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_159
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 65
+        width: 22
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 438ce0a632b6305b0800000000000000
+      internalID: -5403357328067082188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_160
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 65
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e776de2fc7e1599f0800000000000000
+      internalID: -462429864735185026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_161
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 65
+        width: 32
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c24d740f51a3260800000000000000
+      internalID: 7077993886107577392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_162
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 65
+        width: 35
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eaa28bf356f1ed70800000000000000
+      internalID: 9070801965063252709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 65
+        width: 35
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: befbfc8ecd225b2a0800000000000000
+      internalID: -6722428536586518549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_164
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 65
+        width: 33
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8863950307223b50800000000000000
+      internalID: 6571357700218906767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_165
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 65
+        width: 34
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b918e8772415e70800000000000000
+      internalID: 9102129403151883164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_166
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 65
+        width: 36
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477f48cd37d0f8e20800000000000000
+      internalID: 3354915038686410612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_167
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 65
+        width: 38
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41f6750d9b59e560800000000000000
+      internalID: 7343501397363978571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 65
+        width: 35
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ee2cac4d9cf1ec0800000000000000
+      internalID: -3593932061846344035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 65
+        width: 34
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58ad0e08b85b52640800000000000000
+      internalID: 5054645767560551045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_170
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 65
+        width: 35
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fc178ca69e498a0800000000000000
+      internalID: -6299153333945774272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_171
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 65
+        width: 34
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88728235844c44a10800000000000000
+      internalID: 1892853558314280840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_172
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 0
+        width: 28
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc8090a64f9eb070800000000000000
+      internalID: 8124105903513308352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_173
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1
+        width: 27
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416cf8655dad65ed0800000000000000
+      internalID: -2425510739477281260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_174
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1
+        width: 27
+        height: 41
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baebf337742298cc0800000000000000
+      internalID: -3708395127891312981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_175
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 2
+        width: 27
+        height: 36
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a89381bb933fb680800000000000000
+      internalID: -8737208008284333912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_176
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 3
+        width: 29
+        height: 29
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1beb669e8df784fc0800000000000000
+      internalID: -3510415339929813327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: informal_177
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 34
+        height: 36
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4a1f60cd988fe890800000000000000
+      internalID: -7426567049390908849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
