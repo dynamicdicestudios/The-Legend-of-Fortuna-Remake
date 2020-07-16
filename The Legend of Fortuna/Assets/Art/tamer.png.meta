@@ -1,0 +1,4976 @@
+fileFormatVersion: 2
+guid: c7dd500245d079646b5733e633dd8341
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -850467642412651924
+    second: tamer_0
+  - first:
+      213: 5476517098991225756
+    second: tamer_1
+  - first:
+      213: 8467132598089406705
+    second: tamer_2
+  - first:
+      213: -6515245601463850295
+    second: tamer_3
+  - first:
+      213: 7456188365360077701
+    second: tamer_4
+  - first:
+      213: 5363781061823524961
+    second: tamer_5
+  - first:
+      213: 8936805433764483462
+    second: tamer_6
+  - first:
+      213: -7100962116279720263
+    second: tamer_7
+  - first:
+      213: -1242840603470816573
+    second: tamer_8
+  - first:
+      213: 4977269671137362251
+    second: tamer_9
+  - first:
+      213: -5845026738545510181
+    second: tamer_10
+  - first:
+      213: -4199458291861369682
+    second: tamer_11
+  - first:
+      213: -5423353963027165405
+    second: tamer_12
+  - first:
+      213: -6082281214353079671
+    second: tamer_13
+  - first:
+      213: -4091705392300251112
+    second: tamer_14
+  - first:
+      213: -6749908361423057684
+    second: tamer_15
+  - first:
+      213: -5950277359170538866
+    second: tamer_16
+  - first:
+      213: 1144732765605997163
+    second: tamer_17
+  - first:
+      213: -1469810967728470653
+    second: tamer_18
+  - first:
+      213: 3502441893294054355
+    second: tamer_19
+  - first:
+      213: -4495126721880092651
+    second: tamer_20
+  - first:
+      213: -8416086299620334813
+    second: tamer_21
+  - first:
+      213: 3392532105688028847
+    second: tamer_22
+  - first:
+      213: -3685421100340635756
+    second: tamer_23
+  - first:
+      213: 312516722689159746
+    second: tamer_24
+  - first:
+      213: 8606165020781309353
+    second: tamer_25
+  - first:
+      213: -8005605879187568730
+    second: tamer_26
+  - first:
+      213: 7164969110505628946
+    second: tamer_27
+  - first:
+      213: 2832027076923713208
+    second: tamer_28
+  - first:
+      213: -5917840624818970648
+    second: tamer_29
+  - first:
+      213: -6677233952231091662
+    second: tamer_30
+  - first:
+      213: -7595862569106239518
+    second: tamer_31
+  - first:
+      213: 3805731370671245514
+    second: tamer_32
+  - first:
+      213: -1128071723009721034
+    second: tamer_33
+  - first:
+      213: 4303337868978617462
+    second: tamer_34
+  - first:
+      213: 8553295597983456023
+    second: tamer_35
+  - first:
+      213: -4869770435513335872
+    second: tamer_36
+  - first:
+      213: 6458560840846435582
+    second: tamer_37
+  - first:
+      213: -1606188135408299244
+    second: tamer_38
+  - first:
+      213: 1891050787037933444
+    second: tamer_39
+  - first:
+      213: -4828769056622193570
+    second: tamer_40
+  - first:
+      213: -5906405085103111027
+    second: tamer_41
+  - first:
+      213: 2640883892313806188
+    second: tamer_42
+  - first:
+      213: -1321036831866198994
+    second: tamer_43
+  - first:
+      213: 1962233641098283527
+    second: tamer_44
+  - first:
+      213: 5603982606244325090
+    second: tamer_45
+  - first:
+      213: -19795956997050499
+    second: tamer_46
+  - first:
+      213: -4719625273071125497
+    second: tamer_47
+  - first:
+      213: 4998615287110870373
+    second: tamer_48
+  - first:
+      213: 4525773205546763307
+    second: tamer_49
+  - first:
+      213: -4528799368207947300
+    second: tamer_50
+  - first:
+      213: 9042865319761069865
+    second: tamer_51
+  - first:
+      213: 3578996326821560904
+    second: tamer_52
+  - first:
+      213: -8330276123968117575
+    second: tamer_53
+  - first:
+      213: -8035958514981993988
+    second: tamer_54
+  - first:
+      213: -386148299244067749
+    second: tamer_55
+  - first:
+      213: -9208037170579204149
+    second: tamer_56
+  - first:
+      213: -8466776269580295684
+    second: tamer_57
+  - first:
+      213: 6255190604575504147
+    second: tamer_58
+  - first:
+      213: -2191906980978675748
+    second: tamer_59
+  - first:
+      213: -6061347897809897340
+    second: tamer_60
+  - first:
+      213: 4180364992030204521
+    second: tamer_61
+  - first:
+      213: -1945970410162305011
+    second: tamer_62
+  - first:
+      213: -7778188054551220584
+    second: tamer_63
+  - first:
+      213: 9136471796013159986
+    second: tamer_64
+  - first:
+      213: 7733432492373500150
+    second: tamer_65
+  - first:
+      213: 3409752457740203386
+    second: tamer_66
+  - first:
+      213: 7480765665666876457
+    second: tamer_67
+  - first:
+      213: -3242400822649712168
+    second: tamer_68
+  - first:
+      213: 5483990853518091647
+    second: tamer_69
+  - first:
+      213: 8001194372511263296
+    second: tamer_70
+  - first:
+      213: 5921120259148162625
+    second: tamer_71
+  - first:
+      213: -1123066534494019242
+    second: tamer_72
+  - first:
+      213: 7546357074161166569
+    second: tamer_73
+  - first:
+      213: 801888500756664725
+    second: tamer_74
+  - first:
+      213: 6204321612792070732
+    second: tamer_75
+  - first:
+      213: -6307654714020716142
+    second: tamer_76
+  - first:
+      213: -2031095034491485824
+    second: tamer_77
+  - first:
+      213: -4409647129337526503
+    second: tamer_78
+  - first:
+      213: -271409125392034367
+    second: tamer_79
+  - first:
+      213: -2717906468102697425
+    second: tamer_80
+  - first:
+      213: 7408858010099477181
+    second: tamer_81
+  - first:
+      213: -649305058650761163
+    second: tamer_82
+  - first:
+      213: -1629100527568473737
+    second: tamer_83
+  - first:
+      213: -8292898307783260541
+    second: tamer_84
+  - first:
+      213: 716656096750561593
+    second: tamer_85
+  - first:
+      213: 4864736928269819642
+    second: tamer_86
+  - first:
+      213: 7605613549498653254
+    second: tamer_87
+  - first:
+      213: -7897804662626341573
+    second: tamer_88
+  - first:
+      213: 3625304598001164702
+    second: tamer_89
+  - first:
+      213: -8302048169129443597
+    second: tamer_90
+  - first:
+      213: -5944111051905362119
+    second: tamer_91
+  - first:
+      213: -2409792697958080874
+    second: tamer_92
+  - first:
+      213: -8627431669509231345
+    second: tamer_93
+  - first:
+      213: -1485137974804040980
+    second: tamer_94
+  - first:
+      213: 6167189058664755343
+    second: tamer_95
+  - first:
+      213: -1534575635886940014
+    second: tamer_96
+  - first:
+      213: -8125606096051284736
+    second: tamer_97
+  - first:
+      213: 3670671799338675908
+    second: tamer_98
+  - first:
+      213: -1433033123474641224
+    second: tamer_99
+  - first:
+      213: -2990725127428545476
+    second: tamer_100
+  - first:
+      213: 7310501985481197230
+    second: tamer_101
+  - first:
+      213: 7998339674687506992
+    second: tamer_102
+  - first:
+      213: 4485978825259764913
+    second: tamer_103
+  - first:
+      213: -5572182816313918381
+    second: tamer_104
+  - first:
+      213: -385928734130115275
+    second: tamer_105
+  - first:
+      213: 4505980776774697679
+    second: tamer_106
+  - first:
+      213: 3079027691705469776
+    second: tamer_107
+  - first:
+      213: 3279233492272296296
+    second: tamer_108
+  - first:
+      213: -7076903323717085480
+    second: tamer_109
+  - first:
+      213: -6902140078408379592
+    second: tamer_110
+  - first:
+      213: -6204870007337609753
+    second: tamer_111
+  - first:
+      213: -7041525154512100728
+    second: tamer_112
+  - first:
+      213: -5641207487832491138
+    second: tamer_113
+  - first:
+      213: -3046918367764407470
+    second: tamer_114
+  - first:
+      213: 8842592472820310566
+    second: tamer_115
+  - first:
+      213: -8427135135207266249
+    second: tamer_116
+  - first:
+      213: -7972298040490270816
+    second: tamer_117
+  - first:
+      213: -6828507266070234275
+    second: tamer_118
+  - first:
+      213: -1369966631922073022
+    second: tamer_119
+  - first:
+      213: 4732324983241545314
+    second: tamer_120
+  - first:
+      213: 6775080403176363760
+    second: tamer_121
+  - first:
+      213: 1699631144546442724
+    second: tamer_122
+  - first:
+      213: 3790162030747282213
+    second: tamer_123
+  - first:
+      213: 8189282031214240145
+    second: tamer_124
+  - first:
+      213: 6115881780755977011
+    second: tamer_125
+  - first:
+      213: 2351666664448720408
+    second: tamer_126
+  - first:
+      213: -1409601711959997690
+    second: tamer_127
+  - first:
+      213: 5422700391346109725
+    second: tamer_128
+  - first:
+      213: 8191944350060283274
+    second: tamer_129
+  - first:
+      213: -5457632755594274014
+    second: tamer_130
+  - first:
+      213: 5172882216138904963
+    second: tamer_131
+  - first:
+      213: -8479913706786175748
+    second: tamer_132
+  - first:
+      213: -8340120011032641031
+    second: tamer_133
+  - first:
+      213: 4607653577431649691
+    second: tamer_134
+  - first:
+      213: 9167096175677557092
+    second: tamer_135
+  - first:
+      213: -7401605273568578404
+    second: tamer_136
+  - first:
+      213: 3911977435203486699
+    second: tamer_137
+  - first:
+      213: -8139941698701839601
+    second: tamer_138
+  - first:
+      213: -2072154075344958917
+    second: tamer_139
+  - first:
+      213: 8777722428492820768
+    second: tamer_140
+  - first:
+      213: -8107485734505711950
+    second: tamer_141
+  - first:
+      213: 1264686618309371099
+    second: tamer_142
+  - first:
+      213: -6001039581360474800
+    second: tamer_143
+  - first:
+      213: -5299857890058925584
+    second: tamer_144
+  - first:
+      213: -7461312280823726160
+    second: tamer_145
+  - first:
+      213: -2094699668687276842
+    second: tamer_146
+  - first:
+      213: 4357526227088804573
+    second: tamer_147
+  - first:
+      213: -4055278910293894027
+    second: tamer_148
+  - first:
+      213: 1717076637103951316
+    second: tamer_149
+  - first:
+      213: -2853073954074058238
+    second: tamer_150
+  - first:
+      213: -7124582769223301892
+    second: tamer_151
+  - first:
+      213: -5237103957733542822
+    second: tamer_152
+  - first:
+      213: -801403272371490249
+    second: tamer_153
+  - first:
+      213: -7708062839150761858
+    second: tamer_154
+  - first:
+      213: 6618207765468851225
+    second: tamer_155
+  - first:
+      213: -1478616904439466215
+    second: tamer_156
+  - first:
+      213: 5261881016711906049
+    second: tamer_157
+  - first:
+      213: -7870132061344960373
+    second: tamer_158
+  - first:
+      213: 7635501484405493080
+    second: tamer_159
+  - first:
+      213: 8313754235884323208
+    second: tamer_160
+  - first:
+      213: 3483918643530532488
+    second: tamer_161
+  - first:
+      213: -7318359622963461549
+    second: tamer_162
+  - first:
+      213: -2684346249355882135
+    second: tamer_163
+  - first:
+      213: 4160060492524905811
+    second: tamer_164
+  - first:
+      213: 4908702058582232968
+    second: tamer_165
+  - first:
+      213: -7205912307346306279
+    second: tamer_166
+  - first:
+      213: 289026232556571663
+    second: tamer_167
+  - first:
+      213: 6484440736711798146
+    second: tamer_168
+  - first:
+      213: 8678363830030026527
+    second: tamer_169
+  - first:
+      213: -9142642572749737766
+    second: tamer_170
+  - first:
+      213: 4609420385849959061
+    second: tamer_171
+  - first:
+      213: 4347906178448278282
+    second: tamer_172
+  - first:
+      213: -3111976595182168011
+    second: tamer_173
+  - first:
+      213: 8537797043720637514
+    second: tamer_174
+  - first:
+      213: -2786955710893322413
+    second: tamer_175
+  - first:
+      213: -3800993867252933972
+    second: tamer_176
+  - first:
+      213: -3925840251799344306
+    second: tamer_177
+  - first:
+      213: 6766714436720174318
+    second: tamer_178
+  - first:
+      213: 6358376071588328951
+    second: tamer_179
+  - first:
+      213: -8498649380092859549
+    second: tamer_180
+  - first:
+      213: 7889630390961899844
+    second: tamer_181
+  - first:
+      213: -1380257793707835808
+    second: tamer_182
+  - first:
+      213: 4604066538354903770
+    second: tamer_183
+  - first:
+      213: -4983838670058525310
+    second: tamer_184
+  - first:
+      213: -8196843932673420246
+    second: tamer_185
+  - first:
+      213: -5435107314568522578
+    second: tamer_186
+  - first:
+      213: 6016252487492093448
+    second: tamer_187
+  - first:
+      213: -1257384973186995097
+    second: tamer_188
+  - first:
+      213: 7317136219285784778
+    second: tamer_189
+  - first:
+      213: -5728393463257184275
+    second: tamer_190
+  - first:
+      213: 5642210327919626211
+    second: tamer_191
+  - first:
+      213: 2105058822614125471
+    second: tamer_192
+  - first:
+      213: -4338367402698237711
+    second: tamer_193
+  - first:
+      213: -2877027456556194229
+    second: tamer_194
+  - first:
+      213: -7751280998056887665
+    second: tamer_195
+  - first:
+      213: 7441941052194526232
+    second: tamer_196
+  - first:
+      213: -6243510485806731372
+    second: tamer_197
+  - first:
+      213: -5731263319425651007
+    second: tamer_198
+  - first:
+      213: -7733945745401258686
+    second: tamer_199
+  - first:
+      213: 5154401201032345766
+    second: tamer_200
+  - first:
+      213: 4428408789554876520
+    second: tamer_201
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: tamer_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 2049
+        width: 32
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6aa7096f288234f0800000000000000
+      internalID: -850467642412651924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 2049
+        width: 30
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9b89b3294f700c40800000000000000
+      internalID: 5476517098991225756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2049
+        width: 30
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8df37bc3c418570800000000000000
+      internalID: 8467132598089406705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 2049
+        width: 38
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca225c05a23595a0800000000000000
+      internalID: -6515245601463850295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2049
+        width: 52
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b10bf40d3b97760800000000000000
+      internalID: 7456188365360077701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 2049
+        width: 50
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16075fa057aff6a40800000000000000
+      internalID: 5363781061823524961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 2049
+        width: 38
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 681105a5139e50c70800000000000000
+      internalID: 8936805433764483462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_7
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1985
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b624a7e390547d90800000000000000
+      internalID: -7100962116279720263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_8
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1985
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ca90b55e0b80cee0800000000000000
+      internalID: -1242840603470816573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_9
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1985
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b41c77b2560d21540800000000000000
+      internalID: 4977269671137362251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_10
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1985
+        width: 28
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd8b55a462b42eea0800000000000000
+      internalID: -5845026738545510181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1985
+        width: 35
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eacc888eee688b5c0800000000000000
+      internalID: -4199458291861369682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_12
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1985
+        width: 35
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32f0f860e406cb4b0800000000000000
+      internalID: -5423353963027165405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_13
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1985
+        width: 30
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 982047af575679ba0800000000000000
+      internalID: -6082281214353079671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1921
+        width: 32
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818a46edf975737c0800000000000000
+      internalID: -4091705392300251112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_15
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1921
+        width: 32
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cec80fa9b128352a0800000000000000
+      internalID: -6749908361423057684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1921
+        width: 30
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82379b844e5c6da0800000000000000
+      internalID: -5950277359170538866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1921
+        width: 38
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6a22b0a268e2ef00800000000000000
+      internalID: 1144732765605997163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1921
+        width: 52
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 385429556be2a9be0800000000000000
+      internalID: -1469810967728470653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1921
+        width: 50
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3db1d30685c2b9030800000000000000
+      internalID: 3502441893294054355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1921
+        width: 36
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51098f9001a1e91c0800000000000000
+      internalID: -4495126721880092651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_21
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1857
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3232910d91e043b80800000000000000
+      internalID: -8416086299620334813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_22
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1857
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa694a8c9f1b41f20800000000000000
+      internalID: 3392532105688028847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_23
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1857
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49797721901cadcc0800000000000000
+      internalID: -3685421100340635756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_24
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1857
+        width: 28
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242b142bd48465400800000000000000
+      internalID: 312516722689159746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_25
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1857
+        width: 35
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9adef0e2d7d3f6770800000000000000
+      internalID: 8606165020781309353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_26
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1857
+        width: 35
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a70f3f4edf56e090800000000000000
+      internalID: -8005605879187568730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_27
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1857
+        width: 31
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215a552c1751f6360800000000000000
+      internalID: 7164969110505628946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_28
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1793
+        width: 32
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b6635a2f916d4720800000000000000
+      internalID: 2832027076923713208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_29
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1791
+        width: 29
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef1a484e4b9fdda0800000000000000
+      internalID: -5917840624818970648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_30
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1791
+        width: 27
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23296131913b553a0800000000000000
+      internalID: -6677233952231091662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_31
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1791
+        width: 27
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef8cbdec33169690800000000000000
+      internalID: -7595862569106239518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_32
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1791
+        width: 27
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac88b6b948ca0d430800000000000000
+      internalID: 3805731370671245514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_33
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1791
+        width: 27
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63db7d4aeb84850f0800000000000000
+      internalID: -1128071723009721034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_34
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1791
+        width: 27
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67cf4f4edf688bb30800000000000000
+      internalID: 4303337868978617462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_35
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 1791
+        width: 28
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b57b0770963b670800000000000000
+      internalID: 8553295597983456023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_36
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1729
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf378d07991b6cb0800000000000000
+      internalID: -4869770435513335872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_37
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1729
+        width: 27
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef466e6adda61a950800000000000000
+      internalID: 6458560840846435582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_38
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1729
+        width: 29
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4139a8a966ca5b9e0800000000000000
+      internalID: -1606188135408299244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_39
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1729
+        width: 28
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48f6e9debac5e3a10800000000000000
+      internalID: 1891050787037933444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_40
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1729
+        width: 29
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e54d2ad7024ccfcb0800000000000000
+      internalID: -4828769056622193570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_41
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 1729
+        width: 33
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d844eda5edb380ea0800000000000000
+      internalID: -5906405085103111027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_42
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1729
+        width: 30
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c655a6678ed46a420800000000000000
+      internalID: 2640883892313806188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_43
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1729
+        width: 28
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e246865200cbaade0800000000000000
+      internalID: -1321036831866198994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_44
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1665
+        width: 32
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70a0cf7a9114b3b10800000000000000
+      internalID: 1962233641098283527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_45
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1666
+        width: 29
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e629ac3d7855cd40800000000000000
+      internalID: 5603982606244325090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_46
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1666
+        width: 29
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7fa3379eaba9bff0800000000000000
+      internalID: -19795956997050499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_47
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1666
+        width: 29
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70cb3add1d5808eb0800000000000000
+      internalID: -4719625273071125497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_48
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1666
+        width: 29
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565a41dae16ae5540800000000000000
+      internalID: 4998615287110870373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_49
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1666
+        width: 29
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b24889a70c6cece30800000000000000
+      internalID: 4525773205546763307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_50
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1666
+        width: 29
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9a3fe18f87621c0800000000000000
+      internalID: -4528799368207947300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_51
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1666
+        width: 30
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 927ce00e816be7d70800000000000000
+      internalID: 9042865319761069865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_52
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1601
+        width: 25
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84280a862362ba130800000000000000
+      internalID: 3578996326821560904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_53
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1601
+        width: 27
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b466fd300ae46c80800000000000000
+      internalID: -8330276123968117575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_54
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1601
+        width: 29
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf109b49e4a8a7090800000000000000
+      internalID: -8035958514981993988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_55
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1601
+        width: 28
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54afe0fa2024aaf0800000000000000
+      internalID: -386148299244067749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_56
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1601
+        width: 29
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc79809cafa763080800000000000000
+      internalID: -9208037170579204149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_57
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1601
+        width: 32
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf1a5fa77d7ff7a80800000000000000
+      internalID: -8466776269580295684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_58
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 1601
+        width: 29
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3177514a6b6eec650800000000000000
+      internalID: 6255190604575504147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_59
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1601
+        width: 29
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf211ac638c491e0800000000000000
+      internalID: -2191906980978675748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_60
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1538
+        width: 32
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 488fafa8334c1eba0800000000000000
+      internalID: -6061347897809897340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_61
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1538
+        width: 32
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962607dcfc3a30a30800000000000000
+      internalID: 4180364992030204521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_62
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1537
+        width: 32
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d08caded8368ef4e0800000000000000
+      internalID: -1945970410162305011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_63
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1536
+        width: 31
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ea94ccc235e0490800000000000000
+      internalID: -7778188054551220584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_64
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1537
+        width: 32
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2365dbdf0b44bce70800000000000000
+      internalID: 9136471796013159986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_65
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1538
+        width: 32
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f0e26ad0eba25b60800000000000000
+      internalID: 7733432492373500150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_66
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1537
+        width: 32
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a75be9f6bcfd15f20800000000000000
+      internalID: 3409752457740203386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_67
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1536
+        width: 31
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9244306fcb401d760800000000000000
+      internalID: 7480765665666876457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_68
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1537
+        width: 33
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1978a71ada003d0800000000000000
+      internalID: -3242400822649712168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_69
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1473
+        width: 25
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f75ef6730ac0b1c40800000000000000
+      internalID: 5483990853518091647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_70
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1473
+        width: 27
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04a6360c3e3f90f60800000000000000
+      internalID: 8001194372511263296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_71
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1474
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14625e6118b0c2250800000000000000
+      internalID: 5921120259148162625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_72
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1474
+        width: 26
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651ea58efe01a60f0800000000000000
+      internalID: -1123066534494019242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_73
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 1473
+        width: 27
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e8e1a1d6cb0ab860800000000000000
+      internalID: 7546357074161166569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_74
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1473
+        width: 30
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5915215c751e02b00800000000000000
+      internalID: 801888500756664725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_75
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1473
+        width: 27
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4200ca82ad2a1650800000000000000
+      internalID: 6204321612792070732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_76
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1473
+        width: 27
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2912afcf475b678a0800000000000000
+      internalID: -6307654714020716142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_77
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1473
+        width: 26
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081431cc3d910d3e0800000000000000
+      internalID: -2031095034491485824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_78
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1409
+        width: 32
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91704079c49cdc2c0800000000000000
+      internalID: -4409647129337526503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_79
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1409
+        width: 32
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c55534a6d2cb3cf0800000000000000
+      internalID: -271409125392034367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_80
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1408
+        width: 32
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e8004a77e084ad0800000000000000
+      internalID: -2717906468102697425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_81
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1408
+        width: 31
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba694b3b1d81d660800000000000000
+      internalID: 7408858010099477181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_82
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1408
+        width: 32
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538d1444d743df6f0800000000000000
+      internalID: -649305058650761163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_83
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1409
+        width: 32
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77131e693b54469e0800000000000000
+      internalID: -1629100527568473737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_84
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1408
+        width: 32
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 386042e3de4b9ec80800000000000000
+      internalID: -8292898307783260541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_85
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 1408
+        width: 31
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9396fe84ce212f900800000000000000
+      internalID: 716656096750561593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_86
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1408
+        width: 33
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afe5f373674038340800000000000000
+      internalID: 4864736928269819642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_87
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1345
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64ad3cc1a319c8960800000000000000
+      internalID: 7605613549498653254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_88
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1345
+        width: 27
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3dabb2f08c556290800000000000000
+      internalID: -7897804662626341573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_89
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1346
+        width: 25
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e91237ef25baf4230800000000000000
+      internalID: 3625304598001164702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_90
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1346
+        width: 26
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fe7bd22d2339cc80800000000000000
+      internalID: -8302048169129443597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1345
+        width: 27
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93715b5dd76428da0800000000000000
+      internalID: -5944111051905362119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_92
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1345
+        width: 30
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ed0ef0f42be8ed0800000000000000
+      internalID: -2409792697958080874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_93
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1345
+        width: 28
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d62fe4b94354880800000000000000
+      internalID: -8627431669509231345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_94
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1345
+        width: 27
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce2bc5961eab36be0800000000000000
+      internalID: -1485137974804040980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_95
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1345
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f80736016c1469550800000000000000
+      internalID: 6167189058664755343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_96
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1281
+        width: 32
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2906df5f69714bae0800000000000000
+      internalID: -1534575635886940014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_97
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1280
+        width: 28
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0055d149e4c0c3f80800000000000000
+      internalID: -8125606096051284736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_98
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1280
+        width: 29
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce20aead88d0f230800000000000000
+      internalID: 3670671799338675908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_99
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1280
+        width: 29
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8beeceb77f7dc1ce0800000000000000
+      internalID: -1433033123474641224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_100
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1280
+        width: 38
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3469c6975fce76d0800000000000000
+      internalID: -2990725127428545476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_101
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1280
+        width: 41
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea60566b2de147560800000000000000
+      internalID: 7310501985481197230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_102
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1216
+        width: 25
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a89ae9e8fcffe60800000000000000
+      internalID: 7998339674687506992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_103
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1216
+        width: 27
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc488d49f5614e30800000000000000
+      internalID: 4485978825259764913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_104
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1216
+        width: 27
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35cb2125041aba2b0800000000000000
+      internalID: -5572182816313918381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_105
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1216
+        width: 36
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dee8d6cd7e4aaf0800000000000000
+      internalID: -385928734130115275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_106
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1216
+        width: 38
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc2056c84a5788e30800000000000000
+      internalID: 4505980776774697679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_107
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 1216
+        width: 35
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b02b94f57eaba20800000000000000
+      internalID: 3079027691705469776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1152
+        width: 32
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8613472bc7d228d20800000000000000
+      internalID: 3279233492272296296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_109
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1152
+        width: 29
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d6df001ce9c9cd90800000000000000
+      internalID: -7076903323717085480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_110
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1152
+        width: 30
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8335b74fa2ca630a0800000000000000
+      internalID: -6902140078408379592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_111
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 1152
+        width: 29
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e59a276a9fd3e9a0800000000000000
+      internalID: -6204870007337609753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_112
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1152
+        width: 37
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8822458fd2a774e90800000000000000
+      internalID: -7041525154512100728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_113
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1152
+        width: 41
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b787f9da766b1b0800000000000000
+      internalID: -5641207487832491138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_114
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1089
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25b1ac543eb27b5d0800000000000000
+      internalID: -3046918367764407470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_115
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1089
+        width: 27
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6226ff3010337ba70800000000000000
+      internalID: 8842592472820310566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_116
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 1089
+        width: 27
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738e1cf4e3dcc0b80800000000000000
+      internalID: -8427135135207266249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_117
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1089
+        width: 36
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0afd805db25bc5190800000000000000
+      internalID: -7972298040490270816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_118
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1089
+        width: 38
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5bb5bb02d44c31a0800000000000000
+      internalID: -6828507266070234275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_119
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1089
+        width: 35
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242852e4b96ecfce0800000000000000
+      internalID: -1369966631922073022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_120
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1025
+        width: 32
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26691d3df789ca140800000000000000
+      internalID: 4732324983241545314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_121
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1023
+        width: 29
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f699041bbbe50e50800000000000000
+      internalID: 6775080403176363760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_122
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1023
+        width: 27
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed91eb558d469710800000000000000
+      internalID: 1699631144546442724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_123
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1023
+        width: 27
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52b6ddb294c599430800000000000000
+      internalID: 3790162030747282213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_124
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1023
+        width: 31
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 191a3046e9c26a170800000000000000
+      internalID: 8189282031214240145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_125
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1023
+        width: 29
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3335e36831affd450800000000000000
+      internalID: 6115881780755977011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_126
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1023
+        width: 30
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81ef7942f5cc2a020800000000000000
+      internalID: 2351666664448720408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_127
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 1023
+        width: 31
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60387db16b6107ce0800000000000000
+      internalID: -1409601711959997690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_128
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1023
+        width: 32
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d7e85764d414b40800000000000000
+      internalID: 5422700391346109725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_129
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 1023
+        width: 32
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a858c1dcbf1afa170800000000000000
+      internalID: 8191944350060283274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_130
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1023
+        width: 27
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22b5440bce79244b0800000000000000
+      internalID: -5457632755594274014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_131
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 1023
+        width: 27
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38515ede7f4c9c740800000000000000
+      internalID: 5172882216138904963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_132
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1023
+        width: 27
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf44b05896b415a80800000000000000
+      internalID: -8479913706786175748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_133
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 961
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f1c54ea901f14c80800000000000000
+      internalID: -8340120011032641031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_134
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 961
+        width: 27
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d0fda248ca1ff30800000000000000
+      internalID: 4607653577431649691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_135
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 961
+        width: 34
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4694a150761183f70800000000000000
+      internalID: 9167096175677557092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_136
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 961
+        width: 37
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9479451837384990800000000000000
+      internalID: -7401605273568578404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_137
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 961
+        width: 37
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be3c5a230c22a4630800000000000000
+      internalID: 3911977435203486699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_138
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 961
+        width: 35
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f03bc7cf62e190f80800000000000000
+      internalID: -8139941698701839601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_139
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 961
+        width: 36
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a8f23e8da3e33e0800000000000000
+      internalID: -2072154075344958917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_140
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 961
+        width: 38
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0213b47da0cb0d970800000000000000
+      internalID: 8777722428492820768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_141
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 961
+        width: 40
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b67d350eac6c7f80800000000000000
+      internalID: -8107485734505711950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 961
+        width: 38
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4258c57c11d8110800000000000000
+      internalID: 1264686618309371099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_143
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 961
+        width: 38
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05533fdab4608bca0800000000000000
+      internalID: -6001039581360474800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_144
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 961
+        width: 35
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f98cfe245f1376b0800000000000000
+      internalID: -5299857890058925584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_145
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 961
+        width: 37
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bffd372308147890800000000000000
+      internalID: -7461312280823726160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_146
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 897
+        width: 32
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d434c0efb12ee2e0800000000000000
+      internalID: -2094699668687276842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_147
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 898
+        width: 29
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda8311340b097c30800000000000000
+      internalID: 4357526227088804573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_148
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 898
+        width: 29
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57c9cce1151c8b7c0800000000000000
+      internalID: -4055278910293894027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_149
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 897
+        width: 29
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd04be9a1844d710800000000000000
+      internalID: 1717076637103951316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_150
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 897
+        width: 29
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2022f71ea58d768d0800000000000000
+      internalID: -2853073954074058238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_151
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 897
+        width: 29
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf4839318b5602d90800000000000000
+      internalID: -7124582769223301892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_152
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 897
+        width: 30
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a54ff73a2b11257b0800000000000000
+      internalID: -5237103957733542822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_153
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 897
+        width: 30
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 732367448f7d0e4f0800000000000000
+      internalID: -801403272371490249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_154
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 897
+        width: 30
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e78a706dfa5770590800000000000000
+      internalID: -7708062839150761858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_155
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 897
+        width: 29
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91ca08ed5e898db50800000000000000
+      internalID: 6618207765468851225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_156
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 897
+        width: 29
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9177ffb62c5ea7be0800000000000000
+      internalID: -1478616904439466215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_157
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 897
+        width: 29
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1030c73f7e4f50940800000000000000
+      internalID: 5261881016711906049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_158
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 897
+        width: 30
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80fe14869ca7c290800000000000000
+      internalID: -7870132061344960373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_159
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 833
+        width: 25
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85d05fb3520c6f960800000000000000
+      internalID: 7635501484405493080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_160
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 833
+        width: 27
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881c8cbed63606370800000000000000
+      internalID: 8313754235884323208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_161
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 833
+        width: 34
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8868ff53c8d595030800000000000000
+      internalID: 3483918643530532488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_162
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 833
+        width: 37
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35283be72b6ff6a90800000000000000
+      internalID: -7318359622963461549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_163
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 833
+        width: 37
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9619df8fe494fbad0800000000000000
+      internalID: -2684346249355882135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_164
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 833
+        width: 35
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 355651d1af08bb930800000000000000
+      internalID: 4160060492524905811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_165
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 833
+        width: 36
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88fc50ec3863f1440800000000000000
+      internalID: 4908702058582232968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_166
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 833
+        width: 38
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b020e5fe47ffb90800000000000000
+      internalID: -7205912307346306279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_167
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 833
+        width: 40
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ccd42c3d3d20400800000000000000
+      internalID: 289026232556571663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_168
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 833
+        width: 37
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d67c67e7c5df950800000000000000
+      internalID: 6484440736711798146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_169
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 833
+        width: 36
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f17c9886cedbf6870800000000000000
+      internalID: 8678363830030026527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_170
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 833
+        width: 35
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad073e6150fce1180800000000000000
+      internalID: -9142642572749737766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_171
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 833
+        width: 37
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592e70f4b63f7ff30800000000000000
+      internalID: 4609420385849959061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_172
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 769
+        width: 32
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03c22312add65c30800000000000000
+      internalID: 4347906178448278282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_173
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 769
+        width: 33
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53856de46c900d4d0800000000000000
+      internalID: -3111976595182168011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_174
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 769
+        width: 32
+        height: 43
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4c49531d295c7670800000000000000
+      internalID: 8537797043720637514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_175
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 770
+        width: 32
+        height: 38
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f057ffb8eb259d0800000000000000
+      internalID: -2786955710893322413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_176
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 770
+        width: 33
+        height: 31
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa53fc5738204bc0800000000000000
+      internalID: -3800993867252933972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_177
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 767
+        width: 36
+        height: 38
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4be19a471d9489c0800000000000000
+      internalID: -3925840251799344306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_178
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 641
+        width: 41
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4a639bde238ed50800000000000000
+      internalID: 6766714436720174318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_179
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 640
+        width: 48
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f5bd57595d7d3850800000000000000
+      internalID: 6358376071588328951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_180
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 640
+        width: 48
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36ba8f4aa6bbe0a80800000000000000
+      internalID: -8498649380092859549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_181
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 640
+        width: 60
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 449096e1a099d7d60800000000000000
+      internalID: 7889630390961899844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_182
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 640
+        width: 83
+        height: 69
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e749b79d658dce0800000000000000
+      internalID: -1380257793707835808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_183
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 640
+        width: 79
+        height: 66
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada08ec8f1ee4ef30800000000000000
+      internalID: 4604066538354903770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_184
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 447
+        width: 58
+        height: 53
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28d6e459229d5dab0800000000000000
+      internalID: -4983838670058525310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_185
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 449
+        width: 33
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a245fa93fd5fe3e80800000000000000
+      internalID: -8196843932673420246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_186
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 449
+        width: 38
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea4140f91be9294b0800000000000000
+      internalID: -5435107314568522578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_187
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 449
+        width: 59
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806c60c03c50e7350800000000000000
+      internalID: 6016252487492093448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_188
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 449
+        width: 96
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c664f570fdc8ee0800000000000000
+      internalID: -1257384973186995097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_189
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 449
+        width: 93
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac88ca3af90bb8560800000000000000
+      internalID: 7317136219285784778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_190
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 254
+        width: 41
+        height: 54
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de7c2e8de78a080b0800000000000000
+      internalID: -5728393463257184275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_191
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 257
+        width: 48
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e780b746682d4e40800000000000000
+      internalID: 5642210327919626211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_192
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 257
+        width: 48
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b873998dba63d10800000000000000
+      internalID: 2105058822614125471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_193
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 257
+        width: 58
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f8990935d50bc3c0800000000000000
+      internalID: -4338367402698237711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_194
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 238
+        width: 83
+        height: 70
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b462cea75ceb218d0800000000000000
+      internalID: -2877027456556194229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_195
+      rect:
+        serializedVersion: 2
+        x: 1041
+        y: 241
+        width: 79
+        height: 67
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8a7594100bed6490800000000000000
+      internalID: -7751280998056887665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_196
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 62
+        width: 58
+        height: 53
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814937735f5174760800000000000000
+      internalID: 7441941052194526232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_197
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 64
+        width: 33
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f201eea489a59a0800000000000000
+      internalID: -6243510485806731372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_198
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 64
+        width: 38
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce686360667670b0800000000000000
+      internalID: -5731263319425651007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_199
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 59
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24dd63d12518ba490800000000000000
+      internalID: -7733945745401258686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_200
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 64
+        width: 95
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a83169459c188740800000000000000
+      internalID: 5154401201032345766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: tamer_201
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 64
+        width: 94
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860d2a5d45ed47d30800000000000000
+      internalID: 4428408789554876520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
