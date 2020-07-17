@@ -1,0 +1,4400 @@
+fileFormatVersion: 2
+guid: c8fba65ef13fdaa4bb6b4a419df682c2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3852468544406189683
+    second: WormwoodBeryl_0
+  - first:
+      213: -6045673628101201341
+    second: WormwoodBeryl_1
+  - first:
+      213: -7483368410770918914
+    second: WormwoodBeryl_2
+  - first:
+      213: 2405204743110608631
+    second: WormwoodBeryl_3
+  - first:
+      213: -3474594595331455914
+    second: WormwoodBeryl_4
+  - first:
+      213: -207057234025117842
+    second: WormwoodBeryl_5
+  - first:
+      213: -8997769679261074751
+    second: WormwoodBeryl_6
+  - first:
+      213: 1940004914887101641
+    second: WormwoodBeryl_7
+  - first:
+      213: 8806536588605405641
+    second: WormwoodBeryl_8
+  - first:
+      213: -2202404059622659445
+    second: WormwoodBeryl_9
+  - first:
+      213: 2695631860410208444
+    second: WormwoodBeryl_10
+  - first:
+      213: -4903109639765863349
+    second: WormwoodBeryl_11
+  - first:
+      213: 5797832994193825920
+    second: WormwoodBeryl_12
+  - first:
+      213: -563585525554118514
+    second: WormwoodBeryl_13
+  - first:
+      213: -1022422036606719595
+    second: WormwoodBeryl_14
+  - first:
+      213: 5922891942448044583
+    second: WormwoodBeryl_15
+  - first:
+      213: -2815071533318021045
+    second: WormwoodBeryl_16
+  - first:
+      213: -7177802644626789816
+    second: WormwoodBeryl_17
+  - first:
+      213: 8849636497969558339
+    second: WormwoodBeryl_18
+  - first:
+      213: 4347699649674528269
+    second: WormwoodBeryl_19
+  - first:
+      213: -8646939006798977691
+    second: WormwoodBeryl_20
+  - first:
+      213: -8385986107036169862
+    second: WormwoodBeryl_21
+  - first:
+      213: -2691518506289334161
+    second: WormwoodBeryl_22
+  - first:
+      213: 5093839699892600073
+    second: WormwoodBeryl_23
+  - first:
+      213: 5976281023337289768
+    second: WormwoodBeryl_24
+  - first:
+      213: -2485553220052773824
+    second: WormwoodBeryl_25
+  - first:
+      213: -1113268717303429036
+    second: WormwoodBeryl_26
+  - first:
+      213: 1948869347619718017
+    second: WormwoodBeryl_27
+  - first:
+      213: -7239240603734075023
+    second: WormwoodBeryl_28
+  - first:
+      213: 8312930303904030953
+    second: WormwoodBeryl_29
+  - first:
+      213: -5611451180484517974
+    second: WormwoodBeryl_30
+  - first:
+      213: -5363559562244215494
+    second: WormwoodBeryl_31
+  - first:
+      213: 5139357000112988666
+    second: WormwoodBeryl_32
+  - first:
+      213: -4795590722683272994
+    second: WormwoodBeryl_33
+  - first:
+      213: 7493808710604330825
+    second: WormwoodBeryl_34
+  - first:
+      213: 4201953635391973466
+    second: WormwoodBeryl_35
+  - first:
+      213: 5583117616366715497
+    second: WormwoodBeryl_36
+  - first:
+      213: 5506417530500247910
+    second: WormwoodBeryl_37
+  - first:
+      213: 2731633456269986644
+    second: WormwoodBeryl_38
+  - first:
+      213: -6719795878148237832
+    second: WormwoodBeryl_39
+  - first:
+      213: 7512751419140803737
+    second: WormwoodBeryl_40
+  - first:
+      213: 5200285379187468232
+    second: WormwoodBeryl_41
+  - first:
+      213: -8324471902837482915
+    second: WormwoodBeryl_42
+  - first:
+      213: 4737686469641124596
+    second: WormwoodBeryl_43
+  - first:
+      213: 7901871029277274626
+    second: WormwoodBeryl_44
+  - first:
+      213: -6883875162142746941
+    second: WormwoodBeryl_45
+  - first:
+      213: -8543147755693568130
+    second: WormwoodBeryl_46
+  - first:
+      213: 1614626654098523463
+    second: WormwoodBeryl_47
+  - first:
+      213: -2300458791074121409
+    second: WormwoodBeryl_48
+  - first:
+      213: 4292408239346748728
+    second: WormwoodBeryl_49
+  - first:
+      213: -7427981947640685851
+    second: WormwoodBeryl_50
+  - first:
+      213: 1049913291106794839
+    second: WormwoodBeryl_51
+  - first:
+      213: -7566388571082441558
+    second: WormwoodBeryl_52
+  - first:
+      213: -859121091965125627
+    second: WormwoodBeryl_53
+  - first:
+      213: 2076546112555878391
+    second: WormwoodBeryl_54
+  - first:
+      213: 899337165632952847
+    second: WormwoodBeryl_55
+  - first:
+      213: -8346186305615796152
+    second: WormwoodBeryl_56
+  - first:
+      213: 7354193914109843875
+    second: WormwoodBeryl_57
+  - first:
+      213: -3851497122010157089
+    second: WormwoodBeryl_58
+  - first:
+      213: -5486623956327048842
+    second: WormwoodBeryl_59
+  - first:
+      213: -5308171861845936670
+    second: WormwoodBeryl_60
+  - first:
+      213: -5392938306720923933
+    second: WormwoodBeryl_61
+  - first:
+      213: 7873662220690676661
+    second: WormwoodBeryl_62
+  - first:
+      213: 2519963923395835690
+    second: WormwoodBeryl_63
+  - first:
+      213: -8765144379930938074
+    second: WormwoodBeryl_64
+  - first:
+      213: -6059822396036469563
+    second: WormwoodBeryl_65
+  - first:
+      213: 7227610319951871927
+    second: WormwoodBeryl_66
+  - first:
+      213: 6294042280482742186
+    second: WormwoodBeryl_67
+  - first:
+      213: 8967395875559308202
+    second: WormwoodBeryl_68
+  - first:
+      213: -7550500068894578284
+    second: WormwoodBeryl_69
+  - first:
+      213: -1788048957024659546
+    second: WormwoodBeryl_70
+  - first:
+      213: 5535641972472912727
+    second: WormwoodBeryl_71
+  - first:
+      213: -6060741264031796407
+    second: WormwoodBeryl_72
+  - first:
+      213: 4980586377361732178
+    second: WormwoodBeryl_73
+  - first:
+      213: -8167138086845234123
+    second: WormwoodBeryl_74
+  - first:
+      213: 4988652626518693056
+    second: WormwoodBeryl_75
+  - first:
+      213: -5526057574439010110
+    second: WormwoodBeryl_76
+  - first:
+      213: 7824813138544840367
+    second: WormwoodBeryl_77
+  - first:
+      213: 7310474858100342737
+    second: WormwoodBeryl_78
+  - first:
+      213: -394649156761033254
+    second: WormwoodBeryl_79
+  - first:
+      213: -1390469654073516142
+    second: WormwoodBeryl_80
+  - first:
+      213: -115594796721408824
+    second: WormwoodBeryl_81
+  - first:
+      213: -2410709519710379840
+    second: WormwoodBeryl_82
+  - first:
+      213: -8373855364971286060
+    second: WormwoodBeryl_83
+  - first:
+      213: -7383537273068809915
+    second: WormwoodBeryl_84
+  - first:
+      213: 6973498988255485860
+    second: WormwoodBeryl_85
+  - first:
+      213: 5066591739635142265
+    second: WormwoodBeryl_86
+  - first:
+      213: -5635721302830107943
+    second: WormwoodBeryl_87
+  - first:
+      213: 835294608951753187
+    second: WormwoodBeryl_88
+  - first:
+      213: 7201442595861194826
+    second: WormwoodBeryl_89
+  - first:
+      213: 8829950413706575874
+    second: WormwoodBeryl_90
+  - first:
+      213: 2558224928841813011
+    second: WormwoodBeryl_91
+  - first:
+      213: 6899198695784973731
+    second: WormwoodBeryl_92
+  - first:
+      213: 7776576060788144098
+    second: WormwoodBeryl_93
+  - first:
+      213: 8935768449524746032
+    second: WormwoodBeryl_94
+  - first:
+      213: 1465683245823599131
+    second: WormwoodBeryl_95
+  - first:
+      213: -6534600963493571957
+    second: WormwoodBeryl_96
+  - first:
+      213: -5632229630265073028
+    second: WormwoodBeryl_97
+  - first:
+      213: 2292561626398706317
+    second: WormwoodBeryl_98
+  - first:
+      213: -9074015314186421673
+    second: WormwoodBeryl_99
+  - first:
+      213: 2751616071326863761
+    second: WormwoodBeryl_100
+  - first:
+      213: 4004352600100406838
+    second: WormwoodBeryl_101
+  - first:
+      213: -4723478058776535332
+    second: WormwoodBeryl_102
+  - first:
+      213: 3834922369946191513
+    second: WormwoodBeryl_103
+  - first:
+      213: -3937628457193684232
+    second: WormwoodBeryl_104
+  - first:
+      213: -5594795657541391709
+    second: WormwoodBeryl_105
+  - first:
+      213: 7428630275107827823
+    second: WormwoodBeryl_106
+  - first:
+      213: -1338847264903032464
+    second: WormwoodBeryl_107
+  - first:
+      213: -1253463299683848244
+    second: WormwoodBeryl_108
+  - first:
+      213: -6807477763766910207
+    second: WormwoodBeryl_109
+  - first:
+      213: 7967534184144859746
+    second: WormwoodBeryl_110
+  - first:
+      213: 1692926777960707708
+    second: WormwoodBeryl_111
+  - first:
+      213: -662009483532455791
+    second: WormwoodBeryl_112
+  - first:
+      213: 5536633051664071029
+    second: WormwoodBeryl_113
+  - first:
+      213: 7171335028592192248
+    second: WormwoodBeryl_114
+  - first:
+      213: -3924631598549742449
+    second: WormwoodBeryl_115
+  - first:
+      213: 1485847831719582504
+    second: WormwoodBeryl_116
+  - first:
+      213: 5450775141365128085
+    second: WormwoodBeryl_117
+  - first:
+      213: 1777704594689293216
+    second: WormwoodBeryl_118
+  - first:
+      213: -2381058752453660756
+    second: WormwoodBeryl_119
+  - first:
+      213: 5229664460702386725
+    second: WormwoodBeryl_120
+  - first:
+      213: 7219805533779999380
+    second: WormwoodBeryl_121
+  - first:
+      213: -4821252879470178457
+    second: WormwoodBeryl_122
+  - first:
+      213: -4479061780646564435
+    second: WormwoodBeryl_123
+  - first:
+      213: 8026605573781367046
+    second: WormwoodBeryl_124
+  - first:
+      213: -3794138692292452781
+    second: WormwoodBeryl_125
+  - first:
+      213: -1978942845802677807
+    second: WormwoodBeryl_126
+  - first:
+      213: -6881944039636118353
+    second: WormwoodBeryl_127
+  - first:
+      213: -7168751556176932359
+    second: WormwoodBeryl_128
+  - first:
+      213: -6075359906140663254
+    second: WormwoodBeryl_129
+  - first:
+      213: 2316484164379360554
+    second: WormwoodBeryl_130
+  - first:
+      213: -8123786237373596129
+    second: WormwoodBeryl_131
+  - first:
+      213: 8150858033457591877
+    second: WormwoodBeryl_132
+  - first:
+      213: -163120662601020131
+    second: WormwoodBeryl_133
+  - first:
+      213: -4699258060706493
+    second: WormwoodBeryl_134
+  - first:
+      213: -5324834089622828302
+    second: WormwoodBeryl_135
+  - first:
+      213: 659228855543884736
+    second: WormwoodBeryl_136
+  - first:
+      213: -3158364161236251794
+    second: WormwoodBeryl_137
+  - first:
+      213: 7843720282509521014
+    second: WormwoodBeryl_138
+  - first:
+      213: 7090210204587402588
+    second: WormwoodBeryl_139
+  - first:
+      213: -8170552130808124598
+    second: WormwoodBeryl_140
+  - first:
+      213: 6313419122502492408
+    second: WormwoodBeryl_141
+  - first:
+      213: 5093800387065254466
+    second: WormwoodBeryl_142
+  - first:
+      213: 8973260473560557527
+    second: WormwoodBeryl_143
+  - first:
+      213: -423091230852750966
+    second: WormwoodBeryl_144
+  - first:
+      213: -6960071202107763575
+    second: WormwoodBeryl_145
+  - first:
+      213: 3833097020163952770
+    second: WormwoodBeryl_146
+  - first:
+      213: 8356950531693895083
+    second: WormwoodBeryl_147
+  - first:
+      213: -2567907106213751085
+    second: WormwoodBeryl_148
+  - first:
+      213: 8500100510993100734
+    second: WormwoodBeryl_149
+  - first:
+      213: -8488483365663340542
+    second: WormwoodBeryl_150
+  - first:
+      213: 1611098873046406101
+    second: WormwoodBeryl_151
+  - first:
+      213: 270248259426054055
+    second: WormwoodBeryl_152
+  - first:
+      213: 6352592012865533987
+    second: WormwoodBeryl_153
+  - first:
+      213: 958532967603569938
+    second: WormwoodBeryl_154
+  - first:
+      213: -9058352399766361233
+    second: WormwoodBeryl_155
+  - first:
+      213: -569565233727218071
+    second: WormwoodBeryl_156
+  - first:
+      213: 8133167469492457988
+    second: WormwoodBeryl_157
+  - first:
+      213: -2237861550734383455
+    second: WormwoodBeryl_158
+  - first:
+      213: 5966213920090660029
+    second: WormwoodBeryl_159
+  - first:
+      213: 362279334918141248
+    second: WormwoodBeryl_160
+  - first:
+      213: 8072940702044520908
+    second: WormwoodBeryl_161
+  - first:
+      213: -6532267179657622370
+    second: WormwoodBeryl_162
+  - first:
+      213: -5259512828470904751
+    second: WormwoodBeryl_163
+  - first:
+      213: -6875496656430067341
+    second: WormwoodBeryl_164
+  - first:
+      213: 7931316093451958364
+    second: WormwoodBeryl_165
+  - first:
+      213: -3209343580163529998
+    second: WormwoodBeryl_166
+  - first:
+      213: 2538883730207821140
+    second: WormwoodBeryl_167
+  - first:
+      213: -2262402416673789119
+    second: WormwoodBeryl_168
+  - first:
+      213: -4638691049712149128
+    second: WormwoodBeryl_169
+  - first:
+      213: -2728450247628339473
+    second: WormwoodBeryl_170
+  - first:
+      213: -6539340122712892135
+    second: WormwoodBeryl_171
+  - first:
+      213: -5940343529558867079
+    second: WormwoodBeryl_172
+  - first:
+      213: -8336381628363731152
+    second: WormwoodBeryl_173
+  - first:
+      213: 2526019259582179411
+    second: WormwoodBeryl_174
+  - first:
+      213: -1776708414313911383
+    second: WormwoodBeryl_175
+  - first:
+      213: -2405673687800607801
+    second: WormwoodBeryl_176
+  - first:
+      213: -1051993839763548635
+    second: WormwoodBeryl_177
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WormwoodBeryl_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1282
+        width: 30
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37672b9dab7b67530800000000000000
+      internalID: 3852468544406189683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_1
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1282
+        width: 28
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342b419ddd3791ca0800000000000000
+      internalID: -6045673628101201341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1282
+        width: 28
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1be98341cb52890800000000000000
+      internalID: -7483368410770918914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_3
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1282
+        width: 36
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6413578f0016120800000000000000
+      internalID: 2405204743110608631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_4
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1282
+        width: 50
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 654c6ceef92c7cfc0800000000000000
+      internalID: -3474594595331455914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_5
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1282
+        width: 48
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6702cdea82602df0800000000000000
+      internalID: -207057234025117842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_6
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1282
+        width: 36
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cafcd02620812380800000000000000
+      internalID: -8997769679261074751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1218
+        width: 22
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cc8b5601384cea10800000000000000
+      internalID: 1940004914887101641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_8
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 1218
+        width: 23
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c93e494e5a173a70800000000000000
+      internalID: 8806536588605405641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_9
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1218
+        width: 22
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a20563d2d7f61e0800000000000000
+      internalID: -2202404059622659445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_10
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1218
+        width: 26
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb0d9fc15eec86520800000000000000
+      internalID: 2695631860410208444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 1218
+        width: 33
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4456faa2c7a4fbb0800000000000000
+      internalID: -4903109639765863349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_12
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 1218
+        width: 33
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08066f5d36a067050800000000000000
+      internalID: 5797832994193825920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_13
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 1218
+        width: 28
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e808bc453fdbd28f0800000000000000
+      internalID: -563585525554118514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_14
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1154
+        width: 30
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59966812390afc1f0800000000000000
+      internalID: -1022422036606719595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_15
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1154
+        width: 30
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a93a047d6523250800000000000000
+      internalID: 5922891942448044583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_16
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1154
+        width: 28
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b40e347fa5bdee8d0800000000000000
+      internalID: -2815071533318021045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1154
+        width: 36
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a292b3682536c90800000000000000
+      internalID: -7177802644626789816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_18
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1154
+        width: 50
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 343becce18930da70800000000000000
+      internalID: 8849636497969558339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_19
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 1154
+        width: 48
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06c0f8dbc1265c30800000000000000
+      internalID: 4347699649674528269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_20
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1154
+        width: 34
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 565274969c6eff780800000000000000
+      internalID: -8646939006798977691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_21
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1090
+        width: 22
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a798fb6011efe9b80800000000000000
+      internalID: -8385986107036169862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_22
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1090
+        width: 23
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f68fb36cd2ec5aad0800000000000000
+      internalID: -2691518506289334161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_23
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1090
+        width: 22
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d71eef734f0b640800000000000000
+      internalID: 5093839699892600073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_24
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1090
+        width: 26
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8285de15de300f250800000000000000
+      internalID: 5976281023337289768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_25
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1090
+        width: 33
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0441d60f38a818dd0800000000000000
+      internalID: -2485553220052773824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_26
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 1090
+        width: 33
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458039dffffdc80f0800000000000000
+      internalID: -1113268717303429036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_27
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1090
+        width: 28
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183458a9856cb0b10800000000000000
+      internalID: 1948869347619718017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_28
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1026
+        width: 30
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17998daa60d098b90800000000000000
+      internalID: -7239240603734075023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_29
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1024
+        width: 26
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e0a7ce41167d5370800000000000000
+      internalID: 8312930303904030953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_30
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 1024
+        width: 23
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf16c0d1ee1022b0800000000000000
+      internalID: -5611451180484517974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_31
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1024
+        width: 23
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3da8c8defec095b0800000000000000
+      internalID: -5363559562244215494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_32
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1024
+        width: 23
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af1e6ad46f9a25740800000000000000
+      internalID: 5139357000112988666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_33
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1024
+        width: 23
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed00e4655a3a27db0800000000000000
+      internalID: -4795590722683272994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_34
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 1024
+        width: 23
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9479c42815b5ff760800000000000000
+      internalID: 7493808710604330825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_35
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1024
+        width: 23
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5823388196505a30800000000000000
+      internalID: 4201953635391973466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_36
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 962
+        width: 22
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96283c634e73b7d40800000000000000
+      internalID: 5583117616366715497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_37
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 962
+        width: 25
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661737ad199ba6c40800000000000000
+      internalID: 5506417530500247910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_38
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 962
+        width: 27
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b8b89d726b8e520800000000000000
+      internalID: 2731633456269986644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_39
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 962
+        width: 26
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f517d7704d7eb2a0800000000000000
+      internalID: -6719795878148237832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_40
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 962
+        width: 27
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c03b78c97a24860800000000000000
+      internalID: 7512751419140803737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_41
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 962
+        width: 30
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c7602500002b2840800000000000000
+      internalID: 5200285379187468232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_42
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 962
+        width: 27
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ad6a8c8e8897c80800000000000000
+      internalID: -8324471902837482915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_43
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 962
+        width: 26
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa32282eb4afb140800000000000000
+      internalID: 4737686469641124596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_44
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 898
+        width: 30
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202b501d5d519ad60800000000000000
+      internalID: 7901871029277274626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_45
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 899
+        width: 24
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c6d85a23009770a0800000000000000
+      internalID: -6883875162142746941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_46
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 899
+        width: 24
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f85363164a07980800000000000000
+      internalID: -8543147755693568130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_47
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 899
+        width: 25
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7458b62236e486610800000000000000
+      internalID: 1614626654098523463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_48
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 899
+        width: 24
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f393a99fae02310e0800000000000000
+      internalID: -2300458791074121409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_49
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 899
+        width: 24
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d09313d82b19b30800000000000000
+      internalID: 4292408239346748728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_50
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 899
+        width: 24
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eadcd416c18ae890800000000000000
+      internalID: -7427981947640685851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_51
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 899
+        width: 25
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75db169539a029e00800000000000000
+      internalID: 1049913291106794839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_52
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 834
+        width: 22
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aac3e0cdea9cef690800000000000000
+      internalID: -7566388571082441558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_53
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 834
+        width: 25
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c7f5e2be9c314f0800000000000000
+      internalID: -859121091965125627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_54
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 834
+        width: 27
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f78c96ffaf51dc10800000000000000
+      internalID: 2076546112555878391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_55
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 834
+        width: 26
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0adbd223661b7c00800000000000000
+      internalID: 899337165632952847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_56
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 834
+        width: 27
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8486a8866c36c2c80800000000000000
+      internalID: -8346186305615796152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_57
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 834
+        width: 30
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a95bd396685f0660800000000000000
+      internalID: 7354193914109843875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_58
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 834
+        width: 27
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf252d06cbbc8ac0800000000000000
+      internalID: -3851497122010157089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_59
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 834
+        width: 26
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6795af2c4989bd3b0800000000000000
+      internalID: -5486623956327048842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_60
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 771
+        width: 30
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e5f2f7c0d59556b0800000000000000
+      internalID: -5308171861845936670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_61
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 771
+        width: 30
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3ee7d4cde2f6825b0800000000000000
+      internalID: -5392938306720923933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_62
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 770
+        width: 30
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bb5ea1c21ed44d60800000000000000
+      internalID: 7873662220690676661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_63
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 769
+        width: 29
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a27fec446d5b8f220800000000000000
+      internalID: 2519963923395835690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_64
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 770
+        width: 30
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 625743d40a3fb5680800000000000000
+      internalID: -8765144379930938074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_65
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 771
+        width: 30
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc2a4a13af27eba0800000000000000
+      internalID: -6059822396036469563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_66
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 770
+        width: 30
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bfbdafda41ad4460800000000000000
+      internalID: 7227610319951871927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_67
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 769
+        width: 29
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaf96795b1ee85750800000000000000
+      internalID: 6294042280482742186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_68
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 770
+        width: 30
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabf30b9907927c70800000000000000
+      internalID: 8967395875559308202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_69
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 706
+        width: 22
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 499e9fc013c373790800000000000000
+      internalID: -7550500068894578284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_70
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 706
+        width: 25
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7998372f29f27e0800000000000000
+      internalID: -1788048957024659546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_71
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 707
+        width: 22
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75b9dfc7b0d82dc40800000000000000
+      internalID: 5535641972472912727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_72
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 707
+        width: 24
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94335d97eebe3eba0800000000000000
+      internalID: -6060741264031796407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_73
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 706
+        width: 25
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252bbc30ce89e1540800000000000000
+      internalID: 4980586377361732178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_74
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 706
+        width: 28
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 534c60e6e2f78ae80800000000000000
+      internalID: -8167138086845234123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_75
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 706
+        width: 25
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c4577ff1214b3540800000000000000
+      internalID: 4988652626518693056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_76
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 706
+        width: 24
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c0c4331aef7f43b0800000000000000
+      internalID: -5526057574439010110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_77
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 706
+        width: 23
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae46c48712579c60800000000000000
+      internalID: 7824813138544840367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_78
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 642
+        width: 30
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dfbe70a626047560800000000000000
+      internalID: 7310474858100342737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_79
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 642
+        width: 30
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad5e950deace58af0800000000000000
+      internalID: -394649156761033254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_80
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 641
+        width: 30
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29fdcf5773f04bce0800000000000000
+      internalID: -1390469654073516142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_81
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 641
+        width: 29
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c479831523556ef0800000000000000
+      internalID: -115594796721408824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_82
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 641
+        width: 30
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0a20dd6707b8ed0800000000000000
+      internalID: -2410709519710379840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_83
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 642
+        width: 30
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d1336289e61acb80800000000000000
+      internalID: -8373855364971286060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_84
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 641
+        width: 30
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54190e448f7688990800000000000000
+      internalID: -7383537273068809915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_85
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 641
+        width: 29
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4af9384f168d6c060800000000000000
+      internalID: 6973498988255485860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_86
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 641
+        width: 30
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97e81eed756205640800000000000000
+      internalID: 5066591739635142265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_87
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 578
+        width: 22
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2b5bb9555e9c1b0800000000000000
+      internalID: -5635721302830107943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_88
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 578
+        width: 25
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e93e517500979b00800000000000000
+      internalID: 835294608951753187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_89
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 579
+        width: 22
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a486ca4d2e9a0f360800000000000000
+      internalID: 7201442595861194826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_90
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 579
+        width: 24
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2004b414e194a8a70800000000000000
+      internalID: 8829950413706575874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_91
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 578
+        width: 25
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31c4a2bc404a08320800000000000000
+      internalID: 2558224928841813011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_92
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 578
+        width: 28
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a50a1909a0eebf50800000000000000
+      internalID: 6899198695784973731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_93
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 578
+        width: 25
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e77518a9b2fbeb60800000000000000
+      internalID: 7776576060788144098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_94
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 578
+        width: 24
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 037c015af0a320c70800000000000000
+      internalID: 8935768449524746032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_95
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 578
+        width: 23
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12ae848527275410800000000000000
+      internalID: 1465683245823599131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_96
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 514
+        width: 30
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b825a06ab0f6055a0800000000000000
+      internalID: -6534600963493571957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_97
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 513
+        width: 26
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c72ee9afdfc46d1b0800000000000000
+      internalID: -5632229630265073028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_98
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 513
+        width: 25
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8acf2717a0d0df10800000000000000
+      internalID: 2292561626398706317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_99
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 513
+        width: 27
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75ab67fd52f921280800000000000000
+      internalID: -9074015314186421673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_100
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 513
+        width: 36
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19191b9fc34bf2620800000000000000
+      internalID: 2751616071326863761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_101
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 513
+        width: 39
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636856c4971529730800000000000000
+      internalID: 4004352600100406838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_102
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 450
+        width: 22
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cded54a4bb5d27eb0800000000000000
+      internalID: -4723478058776535332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_103
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 450
+        width: 25
+        height: 47
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99687d1c391683530800000000000000
+      internalID: 3834922369946191513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_104
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 450
+        width: 25
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f24087d7cbba59c0800000000000000
+      internalID: -3937628457193684232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_105
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 450
+        width: 34
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aae851fdfa4b52b0800000000000000
+      internalID: -5594795657541391709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_106
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 450
+        width: 36
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60b38b60ebc71760800000000000000
+      internalID: 7428630275107827823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_107
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 450
+        width: 33
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07193fe81857b6de0800000000000000
+      internalID: -1338847264903032464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_108
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 386
+        width: 30
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfea5325cdca9ee0800000000000000
+      internalID: -1253463299683848244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_109
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 386
+        width: 26
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1038d4a9a0bf681a0800000000000000
+      internalID: -6807477763766910207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_110
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 386
+        width: 27
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2627cbd602e529e60800000000000000
+      internalID: 7967534184144859746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_111
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 386
+        width: 26
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c76381f5feb7e7710800000000000000
+      internalID: 1692926777960707708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_112
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 386
+        width: 35
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 190bb18d1e110d6f0800000000000000
+      internalID: -662009483532455791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_113
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 386
+        width: 39
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579bf181d6216dc40800000000000000
+      internalID: 5536633051664071029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_114
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 322
+        width: 22
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faad809633b58360800000000000000
+      internalID: 7171335028592192248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_115
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 322
+        width: 25
+        height: 47
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8c4b2eca58e889c0800000000000000
+      internalID: -3924631598549742449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_116
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 322
+        width: 25
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82b1ee70bbace9410800000000000000
+      internalID: 1485847831719582504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_117
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 322
+        width: 34
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b19939c1b05ab40800000000000000
+      internalID: 5450775141365128085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_118
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 322
+        width: 36
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abf80209ecaba810800000000000000
+      internalID: 1777704594689293216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_119
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 322
+        width: 33
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf2aa61ea7c4fed0800000000000000
+      internalID: -2381058752453660756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_120
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 258
+        width: 38
+        height: 48
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a86aa7e10839840800000000000000
+      internalID: 5229664460702386725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_121
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 256
+        width: 34
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a3b5c71e6e13460800000000000000
+      internalID: 7219805533779999380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_122
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 256
+        width: 37
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fc9dadc08771db0800000000000000
+      internalID: -4821252879470178457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_123
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 256
+        width: 23
+        height: 56
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dad6885aa0d27d1c0800000000000000
+      internalID: -4479061780646564435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_124
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 256
+        width: 27
+        height: 58
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609a8691e3b346f60800000000000000
+      internalID: 8026605573781367046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_125
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 256
+        width: 25
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35ed75926f2885bc0800000000000000
+      internalID: -3794138692292452781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_126
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 256
+        width: 26
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9712577f16984e0800000000000000
+      internalID: -1978942845802677807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_127
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 256
+        width: 27
+        height: 58
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa45f59ab5c6e70a0800000000000000
+      internalID: -6881944039636118353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_128
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 256
+        width: 28
+        height: 56
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f19b0bf07a738c90800000000000000
+      internalID: -7168751556176932359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_129
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 256
+        width: 27
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a22d5df9a5cffaba0800000000000000
+      internalID: -6075359906140663254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_130
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 256
+        width: 23
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d36a1031ec52020800000000000000
+      internalID: 2316484164379360554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_131
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 256
+        width: 23
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1eb3227573824f80800000000000000
+      internalID: -8123786237373596129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_132
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 256
+        width: 23
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 546f0e2423aad1170800000000000000
+      internalID: 8150858033457591877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_133
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 194
+        width: 48
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dc3222f9a7cbdf0800000000000000
+      internalID: -163120662601020131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_134
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 194
+        width: 37
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d6598bc0e4feff0800000000000000
+      internalID: -4699258060706493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_135
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 194
+        width: 40
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fa04209b936a16b0800000000000000
+      internalID: -5324834089622828302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_136
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 192
+        width: 35
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb6160c62d062900800000000000000
+      internalID: 659228855543884736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_137
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 194
+        width: 36
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6b4032778c3b24d0800000000000000
+      internalID: -3158364161236251794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_138
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 194
+        width: 33
+        height: 54
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 670b1840a0e7adc60800000000000000
+      internalID: 7843720282509521014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_139
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 194
+        width: 35
+        height: 56
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5528439d9c756260800000000000000
+      internalID: 7090210204587402588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_140
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 194
+        width: 37
+        height: 55
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4bee50602e5c9e80800000000000000
+      internalID: -8170552130808124598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_141
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 194
+        width: 39
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f06be2fd35cd9750800000000000000
+      internalID: 6313419122502492408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_142
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 194
+        width: 36
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24295c3c670d0b640800000000000000
+      internalID: 5093800387065254466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_143
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 194
+        width: 35
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d761abbbdc678c70800000000000000
+      internalID: 8973260473560557527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_144
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 194
+        width: 32
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81607564c0e02af0800000000000000
+      internalID: -423091230852750966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_145
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 194
+        width: 35
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 984d0f22e1cd86f90800000000000000
+      internalID: -6960071202107763575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_146
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 130
+        width: 38
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2801b746e65e13530800000000000000
+      internalID: 3833097020163952770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_147
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 131
+        width: 36
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad50274b3ad9f370800000000000000
+      internalID: 8356950531693895083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_148
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 131
+        width: 37
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d69ded9716fc5cd0800000000000000
+      internalID: -2567907106213751085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_149
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 128
+        width: 24
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf2cd8116c66f570800000000000000
+      internalID: 8500100510993100734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_150
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 130
+        width: 24
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20803d35a59d23a80800000000000000
+      internalID: -8488483365663340542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_151
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 130
+        width: 24
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d396f993e5cb5610800000000000000
+      internalID: 1611098873046406101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_152
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 130
+        width: 24
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afe1403c5d10c300800000000000000
+      internalID: 270248259426054055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_153
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 130
+        width: 24
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32875d937c0f82850800000000000000
+      internalID: 6352592012865533987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_154
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 130
+        width: 24
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 215038fc7a46d4d00800000000000000
+      internalID: 958532967603569938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_155
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 129
+        width: 24
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b6e915c744a4280800000000000000
+      internalID: -9058352399766361233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_156
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 129
+        width: 24
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96ed647007f7818f0800000000000000
+      internalID: -569565233727218071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_157
+      rect:
+        serializedVersion: 2
+        x: 722
+        y: 129
+        width: 24
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4025cddd8b0ded070800000000000000
+      internalID: 8133167469492457988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_158
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 129
+        width: 24
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a6e8fbb6c481f0e0800000000000000
+      internalID: -2237861550734383455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_159
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 66
+        width: 48
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc9ef033ff3cc250800000000000000
+      internalID: 5966213920090660029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_160
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 66
+        width: 37
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 045b24bb223170500800000000000000
+      internalID: 362279334918141248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_161
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 66
+        width: 40
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc10826dbc8d80070800000000000000
+      internalID: 8072940702044520908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_162
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 64
+        width: 35
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9c809a0c99b855a0800000000000000
+      internalID: -6532267179657622370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_163
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 66
+        width: 36
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 158b167d2f47207b0800000000000000
+      internalID: -5259512828470904751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_164
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 66
+        width: 33
+        height: 54
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 371991b08345590a0800000000000000
+      internalID: -6875496656430067341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_165
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 66
+        width: 35
+        height: 56
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58fa8f07f1b11e60800000000000000
+      internalID: 7931316093451958364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_166
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 66
+        width: 37
+        height: 55
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f22c26840f1673d0800000000000000
+      internalID: -3209343580163529998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_167
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 66
+        width: 39
+        height: 51
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d4e011d4deb3320800000000000000
+      internalID: 2538883730207821140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_168
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 66
+        width: 36
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14b6c2f1df45a90e0800000000000000
+      internalID: -2262402416673789119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_169
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 66
+        width: 35
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d9f1f211f00afb0800000000000000
+      internalID: -4638691049712149128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_170
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 66
+        width: 32
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe649caa4f8922ad0800000000000000
+      internalID: -2728450247628339473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_171
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 66
+        width: 35
+        height: 52
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d1d382ec89f35a0800000000000000
+      internalID: -6539340122712892135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_172
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 2
+        width: 30
+        height: 50
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9738adc7809af8da0800000000000000
+      internalID: -5940343529558867079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_173
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 2
+        width: 31
+        height: 49
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03f8949b3193f4c80800000000000000
+      internalID: -8336381628363731152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_174
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2
+        width: 30
+        height: 43
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358e03712293e0320800000000000000
+      internalID: 2526019259582179411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_175
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 30
+        height: 38
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ab2f5f4c1dd757e0800000000000000
+      internalID: -1776708414313911383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_176
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3
+        width: 31
+        height: 32
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cb0429d6845d9ed0800000000000000
+      internalID: -2405673687800607801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WormwoodBeryl_177
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 0
+        width: 34
+        height: 36
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5269efa2d219661f0800000000000000
+      internalID: -1051993839763548635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
